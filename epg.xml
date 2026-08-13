@@ -320,10 +320,6 @@
     <display-name>Bloomberg Originals</display-name>
     <icon src="https://images.tv.osn.com/colossus/images/channel_logos/v4/Bloomberg-Originals_ATV.png" />
   </channel>
-  <programme start="20260812205500 +0100" stop="20260813020000 +0100" channel="9994">
-    <title>Secrets of the Body</title>
-    <desc>Exploring the human body's secrets, uncovering diverse medical topics and offering an in-depth look at the function of its organs and systems.</desc>
-  </programme>
   <programme start="20260813020000 +0100" stop="20260813024500 +0100" channel="9994">
     <title>From Oman</title>
     <desc>Up to the minute coverage of all the latest issues and events happening inside Sultanate Oman.</desc>
@@ -547,9 +543,25 @@
     <title>We Have An Impact</title>
     <desc>Through innovative AI and graphic design, the series breathes new life into the stories of Omani pioneers whose legacies continue to shape humanity.</desc>
   </programme>
-  <programme start="20260812232400 +0100" stop="20260813010300 +0100" channel="9993">
-    <title>Oman Professional League</title>
-    <desc>The Oman Professional Football League is jam-packed with enthusiasm as twelve Omani teams compete to win the league and the title.</desc>
+  <programme start="20260814100500 +0100" stop="20260814101000 +0100" channel="9994">
+    <title>Desert Gold</title>
+    <desc>Highlights development, energy, and industrial activities in Oman's desert regions through field reports and interviews with young Omani experts.</desc>
+  </programme>
+  <programme start="20260814101000 +0100" stop="20260814102000 +0100" channel="9994">
+    <title>Oman In Week</title>
+    <desc>A comprehensive overview on the week's top events in Oman packed with deep analysis and revealing reports.</desc>
+  </programme>
+  <programme start="20260814102000 +0100" stop="20260814104000 +0100" channel="9994">
+    <title>Antidote</title>
+    <desc>Discussing topics about public health and proper nutrition through interviewing specialists and giving medical advice to avoid diseases.</desc>
+  </programme>
+  <programme start="20260814104000 +0100" stop="20260814110000 +0100" channel="9994">
+    <title>Your Health</title>
+    <desc>Addressing common diseases to know their causes, cure, and prevention methods in an innovative and simplified way.</desc>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814112000 +0100" channel="9994">
+    <title>News</title>
+    <desc>News summary</desc>
   </programme>
   <programme start="20260813010300 +0100" stop="20260813025900 +0100" channel="9993">
     <title>Volleyball Nations League</title>
@@ -631,18 +643,9 @@
     <title>Friday Prayer</title>
     <desc>A live broadcast of the weekly Friday Prayer captures the communal spirit and spiritual devotion of Muslims around the world as they gather in mosques to connect with their faith.</desc>
   </programme>
-  <programme start="20260813000500 +0100" stop="20260813005000 +0100" channel="9983">
-    <title>Colorful Roses</title>
-    <desc>Abdel Wahab wants to have a son after he has four girls, so he decides to marry another woman, but she birth to a daughter, so he goes back to his first wife, who gives him the son he always dreamed of. Then discrimination prevails in the way he treats his children, causing estrangement between them.</desc>
-    <category>movie</category>
-  </programme>
-  <programme start="20260813005000 +0100" stop="20260813012000 +0100" channel="9983">
-    <title>The Clarification</title>
-    <desc>Young Omanis are striving to bring about significant change in their country as they work to enhance technology, protect the environment, and explore the realm of artificial intelligence.</desc>
-  </programme>
-  <programme start="20260813012000 +0100" stop="20260813014000 +0100" channel="9983">
-    <title>Guidance and Mercy</title>
-    <desc>Exploring Islamic topics with a modern spirit, uncovering the impact of values and teachings on people's daily lives.</desc>
+  <programme start="20260814100000 +0100" stop="20260814113000 +0100" channel="9993">
+    <title>Islamic Solidarity Games</title>
+    <desc>A multi-sport event held every four years, featuring athletes from member states of the Organization of Islamic Cooperation, aims to promote unity, friendship, and cultural exchange through sporting competition.</desc>
   </programme>
   <programme start="20260813014000 +0100" stop="20260813022000 +0100" channel="9983">
     <title>Autumn Nights</title>
@@ -901,29 +904,14 @@
     <title>Autumn Nights</title>
     <desc>The opening and entertainment activities of Khareef Dhofar 2025 to bring the audience together and enjoy the beautiful and unforgettable moments.</desc>
   </programme>
-  <programme start="20260812235000 +0100" stop="20260813004500 +0100" channel="204">
-    <title>From</title>
-    <sub-title>Mouse Trap</sub-title>
-    <desc>Kenny leads a group into the forest in search of food as Donna and Ellis try to talk Boyd out of a dangerous plan. Meanwhile, Tabitha makes a mind-bending discovery.</desc>
+  <programme start="20260814102000 +0100" stop="20260814110000 +0100" channel="9983">
+    <title>One Boat One World</title>
+    <desc>On a huge ocean cruise that feels like a floating city, the intertwined lives of guests and crew unfold in joy and struggle, while security officer Ding Kai and tour leader Tian Yue fall in love amidst clashes with travelers, colleagues, and family.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813004500 +0100" stop="20260813005500 +0100" channel="204">
-    <title>The Unserious Race</title>
-    <sub-title>Austria</sub-title>
-    <desc>Two-time Formula One World Champion Max Verstappen and fellow F1 driver Yuki Tsunoda went head to head in mega trucks in an off-road race at an iron mine near the Red Bull Ring in Austria.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813005500 +0100" stop="20260813010500 +0100" channel="204">
-    <title>The Unserious Race</title>
-    <sub-title>Japan</sub-title>
-    <desc>Drivers from each team will work together through a series of three challenges to win points for their team. Whichever team wins the best of three will start the race with an advantage.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813010500 +0100" stop="20260813021000 +0100" channel="204">
-    <title>Chernobyl</title>
-    <sub-title>Open Wide, O Earth</sub-title>
-    <desc>Lyudmilla Ignatenko, a Pripyat resident, ignores warning about her firefighter husband's contamination. Valery Legasov lays out a decontamination plan, complete with human risks.</desc>
-    <category>episode</category>
+  <programme start="20260814110000 +0100" stop="20260814113000 +0100" channel="9983">
+    <title>News</title>
+    <desc>News summary</desc>
   </programme>
   <programme start="20260813021000 +0100" stop="20260813031000 +0100" channel="204">
     <title>The Curse</title>
@@ -1199,22 +1187,16 @@
     <desc>The winner is dramatically revealed earning the Knight’s Trophy, the title of Web3’s next visionary leader, and an added $250,000 investment to help their project change the world.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813010000 +0100" channel="304">
-    <title>Silicon Valley</title>
-    <sub-title>The Uptick</sub-title>
-    <desc>With Pied Piper's future in question, Erlich's publicity success leaves Richard in a moral quandary just as Dinesh's video-chat app starts to pick up speed. While Laurie prepares to jump ship, Gavin's comeback at Hooli is threatened by his displays of grandeur.</desc>
+  <programme start="20260814095000 +0100" stop="20260814104000 +0100" channel="204">
+    <title>Superman &amp; Lois</title>
+    <sub-title>Through The Valley Of Death</sub-title>
+    <desc>Lois and John Henry Irons can't seem to agree on the best way to stop Morgan Edge. Meanwhile, Jonathan encourages Jordan to focus on strengthening his powers to help locate their dad. Lastly, an old friend is brought in to help with the search.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813013500 +0100" channel="304">
-    <title>Life, Larry and the Pursuit of Unhappiness</title>
-    <sub-title>Buzz</sub-title>
-    <desc>Paul Revere’s ride, a Texas Revolution dispute with Davy Crockett, a dinner party with Susan B. Anthony, and a 1969 moon-landing bicker between Neil Armstrong and Buzz Aldrin.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813013500 +0100" stop="20260813020500 +0100" channel="304">
-    <title>Life, Larry and the Pursuit of Unhappiness</title>
-    <sub-title>Lawrence</sub-title>
-    <desc>Larry gets caught up in the moment on VJ Day. After delivering a lengthy speech, President William Henry Harrison falls ill. Rescuers question the surviving members of the Donner Party. In 2014, President Obama makes waves for his apparel decisions.</desc>
+  <programme start="20260814104000 +0100" stop="20260814113000 +0100" channel="204">
+    <title>Superman &amp; Lois</title>
+    <sub-title>Fail Safe</sub-title>
+    <desc>Superman pays a visit to Morgan Edge. Meanwhile, Lois and Chrissy work together on a story. Lastly, Jonathan finds a welcome distraction during a very stressful school day.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020500 +0100" stop="20260813030500 +0100" channel="304">
@@ -1474,10 +1456,17 @@
     <desc>It's July 4th at the Billy Barnes Extended Care Unit, and nurse DiDi Ortley is starting a new job. Events on her first day include the staff trying to decipher the identity of a mystery Asian woman.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260812225000 +0100" stop="20260813010500 +0100" channel="301">
-    <title>No Other Choice</title>
-    <desc>When a happy family man is dismissed after twenty-five years of loyal service at a paper company, he finds the perfect solution to land his next role: truly eliminate the competition.</desc>
-    <category>movie</category>
+  <programme start="20260814095000 +0100" stop="20260814102000 +0100" channel="304">
+    <title>Avenue 5</title>
+    <sub-title>What An Unseasonal Delight</sub-title>
+    <desc>With the ship facing a fiery threat, Billie hatches a plan that could just save some of the passengers… and the eels. Meanwhile, Iris makes a risky bid on Earth, Ryan finds himself in the middle of a three-way couples' quarrel, and Mia shares shocking news with Doug.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814102000 +0100" stop="20260814113000 +0100" channel="304">
+    <title>Band Of Brothers</title>
+    <sub-title>Points</sub-title>
+    <desc>The company captures the Eagle's Nest in Berchtesgaden and discovers Herman Goering's house, then heads out to Austria where the end of the war in Europe is announced. While those with enough points go home, the rest stay behind until the Pacific War is declared over.</desc>
+    <category>episode</category>
   </programme>
   <programme start="20260813010500 +0100" stop="20260813025000 +0100" channel="301">
     <title>Black Bag</title>
@@ -1579,14 +1568,9 @@
     <desc>Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Nora’s family emigrates from South Korea. Two decades later, they are reunited in New York for one fateful week.</desc>
     <category>movie</category>
   </programme>
-  <programme start="20260813001500 +0100" stop="20260813010000 +0100" channel="5672">
-    <title>Pig Vs. Shark</title>
-    <desc>The famous swimming pigs of the Bahamas may be in peril. Some believe that the local tiger shark population has acquired a taste for pork and may be feasting on them.</desc>
-    <category>movie</category>
-  </programme>
-  <programme start="20260813010000 +0100" stop="20260813014500 +0100" channel="5672">
-    <title>How To Train A Great White</title>
-    <desc>Experts attempt to train great white sharks to test their intelligence.</desc>
+  <programme start="20260814104000 +0100" stop="20260814123500 +0100" channel="301">
+    <title>The Last Voyage of The Demeter</title>
+    <desc>The crew of the merchant ship Demeter attempts to survive the ocean voyage from Carpathia to London as they are stalked each night by a merciless presence onboard the ship.</desc>
     <category>movie</category>
   </programme>
   <programme start="20260813014500 +0100" stop="20260813023000 +0100" channel="5672">
@@ -1804,9 +1788,14 @@
     <desc>Join Dr. Austin Gallagher and his fearless team as they deploy a 29-foot whale decoy to attract and study massive great whites in New Zealand.</desc>
     <category>movie</category>
   </programme>
-  <programme start="20260812233500 +0100" stop="20260813012000 +0100" channel="302">
-    <title>Love Lies Bleeding</title>
-    <desc>Set in 1989, the plot follows the relationship between a reclusive gym manager, who is part of a crime family, and an ambitious bodybuilder.</desc>
+  <programme start="20260814100000 +0100" stop="20260814104500 +0100" channel="5672">
+    <title>Deadliest Bite</title>
+    <desc>Using cutting edge technology, scientists unveil the secrets of rare shark species' jaws and delve into how these sharks deliver lethal attacks.</desc>
+    <category>movie</category>
+  </programme>
+  <programme start="20260814104500 +0100" stop="20260814113000 +0100" channel="5672">
+    <title>Deadly Sharks Of Brazil</title>
+    <desc>Marine biologist Danni Washington and conservationist Paul de Gelder track deadly tiger sharks in one of Brazil's most beautiful tourist destinations.</desc>
     <category>movie</category>
   </programme>
   <programme start="20260813012000 +0100" stop="20260813035000 +0100" channel="302">
@@ -1884,9 +1873,9 @@
     <desc>Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.</desc>
     <category>movie</category>
   </programme>
-  <programme start="20260813001000 +0100" stop="20260813013500 +0100" channel="5666">
-    <title>Wallace &amp; Gromit: The Curse Of The Were-Rabbit</title>
-    <desc>Daffy, cheese-loving inventor Wallace and his faithful dog Gromit become heroes in stopping a crime spree. They learn that a giant, fuzzy creature is stealing the town’s produce and the not-completely-dynamic duo set out to capture the beast and save the day.</desc>
+  <programme start="20260814103000 +0100" stop="20260814133000 +0100" channel="302">
+    <title>Batman v Superman: Dawn Of Justice</title>
+    <desc>With Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it's ever known before.</desc>
     <category>movie</category>
   </programme>
   <programme start="20260813013500 +0100" stop="20260813030500 +0100" channel="5666">
@@ -1974,11 +1963,6 @@
     <desc>Returning for a second year at Hogwarts, it isn't long before Harry and company discover that someone has opened the Chamber of Secrets, letting loose the monster and all its powers.</desc>
     <category>movie</category>
   </programme>
-  <programme start="20260812212500 +0100" stop="20260813010000 +0100" channel="4503">
-    <title>The Lord Of The Rings: The Fellowship Of The Ring</title>
-    <desc>A young hobbit named Frodo Baggins inherits a simple gold ring. He knows the ring has power, but not that he holds the secret to the survival or enslavement of the entire world.</desc>
-    <category>movie</category>
-  </programme>
   <programme start="20260813010000 +0100" stop="20260813032000 +0100" channel="4503">
     <title>Goodfellas</title>
     <desc>The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.</desc>
@@ -2052,11 +2036,6 @@
   <programme start="20260814092500 +0100" stop="20260814131500 +0100" channel="4503">
     <title>The Lord Of The Rings: The Two Towers</title>
     <desc>Frodo &amp; Sam edge closer to Mordor and encounter a strange creature who once owned the ring. The divided fellowship makes a stand against Sauron's new ally,</desc>
-    <category>movie</category>
-  </programme>
-  <programme start="20260812233000 +0100" stop="20260813011000 +0100" channel="5669">
-    <title>The Winning Season</title>
-    <desc>Bill Greaves gets a chance to bring his life back on track when a friend, Terry, offers him a job to coach a high school girls' basketball team.</desc>
     <category>movie</category>
   </programme>
   <programme start="20260813011000 +0100" stop="20260813023900 +0100" channel="5669">
@@ -2149,9 +2128,9 @@
     <desc>Danny Ocean and the gang would have only one reason to pull off their riskiest casino heist - to defend one of their own.  But they’re going to need more than luck on their side.</desc>
     <category>movie</category>
   </programme>
-  <programme start="20260813002500 +0100" stop="20260813015000 +0100" channel="225">
-    <title>The Woman in The Yard</title>
-    <desc>A grieving mother must save her family from the grasp of a terrifying spectral woman.</desc>
+  <programme start="20260814094000 +0100" stop="20260814114500 +0100" channel="5669">
+    <title>Knives Out</title>
+    <desc>When renowned crime novelist Harlan Thrombey is found dead at his estate, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate.</desc>
     <category>movie</category>
   </programme>
   <programme start="20260813015000 +0100" stop="20260813033000 +0100" channel="225">
@@ -2254,17 +2233,10 @@
     <desc>A young girl warns a middle-aged man of looming dangers whilst narrating four grim tales about the morally-twisted fabric of the society.</desc>
     <category>movie</category>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813010000 +0100" channel="208">
-    <title>In Treatment</title>
-    <sub-title>Jake And Amy - Week Three</sub-title>
-    <desc>Amy examines the unusual reaction she had to her miscarriage, which ends up inciting Jake's suspicions.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="208">
-    <title>Succession</title>
-    <sub-title>Sad Sack WASP Trap</sub-title>
-    <desc>With the company's annual foundation gala approaching, Kendall polishes up his speech while enlisting an on-air personality from the Waystar's ATV Networks to accompany him. Shiv tries to minimise damage from a sordid photo that threatens a client's political future.</desc>
-    <category>episode</category>
+  <programme start="20260814095500 +0100" stop="20260814112500 +0100" channel="225">
+    <title>Keep Watching</title>
+    <desc>A family become imprisoned in their home by intruders who force them to play a life and death game where the mysterious rules become clear as the night unfolds.</desc>
+    <category>movie</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813033000 +0100" channel="208">
     <title>Point Of Origin</title>
@@ -2461,16 +2433,16 @@
     <desc>Gina attempts to uncover the root of Paul's connection with Laura.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813002500 +0100" stop="20260813012000 +0100" channel="307">
-    <title>Dexter</title>
-    <sub-title>Once Upon A Time</sub-title>
-    <desc>Brother Sam, a minister with a criminal history, is brought in by Homicide to help solve a macabre murder, but Dexter sees him for what he really is, and it's definitely not a man of God. Elsewhere, Debra's sudden hero status elicits a pair of surprising proposals.</desc>
+  <programme start="20260814100000 +0100" stop="20260814103000 +0100" channel="208">
+    <title>In Treatment</title>
+    <sub-title>Laura - Week Four</sub-title>
+    <desc>To Paul's discomfort, Laura informs him - in intimate detail - about her burgeoning relationship with Alex.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813012000 +0100" stop="20260813021000 +0100" channel="307">
-    <title>Animal Kingdom</title>
-    <sub-title>The Leopard</sub-title>
-    <desc>Baz puts his plan to take down Smurf in motion as Marco cashes in a favour with Craig and Deran. Meanwhile, Pope seeks the truth behind the reasons for Catherine's death.</desc>
+  <programme start="20260814103000 +0100" stop="20260814113000 +0100" channel="208">
+    <title>Succession</title>
+    <sub-title>I Went To Market</sub-title>
+    <desc>After hearing Logan's plan to expand to local TV, Kendall plots a vote of no confidence against his father. Greg drives his ornery grandfather from Canada to New York for a Thanksgiving reunion with Logan. Tom grows concerned about the terms of his prenup with Shiv.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813021000 +0100" stop="20260813030000 +0100" channel="307">
@@ -2695,16 +2667,16 @@
     <desc>Charles faces a new challenge when three medical students shadow him for a day. Goodwin faces a high-stakes board meeting. Frost reckons with his past.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813010000 +0100" channel="4502">
-    <title>Girls</title>
-    <sub-title>Homeward Bound</sub-title>
-    <desc>Stranded after her summer road trip with Fran is cut short, Hannah is rescued by Ray. Adam stops by Laird's place and stays to help with the baby. Back from Japan, Shoshanna gets a wakeup call. Marnie is given parameters for her relationship with Desi.</desc>
+  <programme start="20260814095500 +0100" stop="20260814104500 +0100" channel="307">
+    <title>Chicago P.D.</title>
+    <sub-title>Born Screaming</sub-title>
+    <desc>Voight and the team work together to uncover the truth of the Bell case before more lives are lost.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="4502">
-    <title>The Affair</title>
-    <sub-title>Episode 7</sub-title>
-    <desc>Alison's mother raises concerns about her and Noah's new lifestyle. Alison confronts Noah about his revealing new book. Meanwhile, as their passion intensifies, Cole lashes out at Luisa and is further alienated from his family in the wake of startling revelations.</desc>
+  <programme start="20260814104500 +0100" stop="20260814113500 +0100" channel="307">
+    <title>Major Crimes</title>
+    <sub-title>Reloaded</sub-title>
+    <desc>Major Crimes reels from big changes.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813023000 +0100" channel="4502">
@@ -3013,34 +2985,16 @@
     <desc>Kim's plans for a July 4th bash are dashed when Louie uses her shopping money to make a dumb impulse purchase.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813001000 +0100" stop="20260813003500 +0100" channel="4508">
-    <title>2 Broke Girls</title>
-    <sub-title>And The Kilt Trip</sub-title>
-    <desc>The diner gang are heading out on the town and are planning to get crazy at the St. Patrick's Day parade, but Caroline is missing her old rich girl holiday traditions.</desc>
+  <programme start="20260814094000 +0100" stop="20260814103000 +0100" channel="4502">
+    <title>Anne Rice's Mayfair Witches</title>
+    <sub-title>Second Line</sub-title>
+    <desc>In the aftermath of Deirdre's grisly death, Rowan searches for safety in a strange city. Sip provides her with a safehouse while he investigates Deirdre's murder. Lasher makes contact with Rowan - but not in the way you might expect.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813003500 +0100" stop="20260813010000 +0100" channel="4508">
-    <title>2 Broke Girls</title>
-    <sub-title>And The Not Broke Parents</sub-title>
-    <desc>Max is very uncomfortable when Deke takes her home to meet his wealthy parents, until she learns a secret about his mothers past.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813010000 +0100" stop="20260813012500 +0100" channel="4508">
-    <title>The Middle</title>
-    <sub-title>Hecks vs. Glossners: The Final Battle</sub-title>
-    <desc>The Hecks wage a war against the Glossners.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813012500 +0100" stop="20260813015000 +0100" channel="4508">
-    <title>The Middle</title>
-    <sub-title>Thank You for Not Kissing</sub-title>
-    <desc>Sue works up the courage to tell Sean her feelings for him.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813015000 +0100" stop="20260813021500 +0100" channel="4508">
-    <title>The Middle</title>
-    <sub-title>Bat Out of Heck</sub-title>
-    <desc>Frankie swears there’s something flying through the house.</desc>
+  <programme start="20260814103000 +0100" stop="20260814113500 +0100" channel="4502">
+    <title>The Insight Track with Luca Allam</title>
+    <sub-title>Nayla Tueini</sub-title>
+    <desc>A journalist and media executive, Nayla Tueini is the editor-in-chief of An-Nahar, continuing her family's legacy in Lebanese journalism.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813021500 +0100" stop="20260813024000 +0100" channel="4508">
@@ -3481,16 +3435,28 @@
     <desc>Frankie forces Brick to ask Cindy to the prom.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010000 +0100" channel="4501">
-    <title>Stanley Tucci: Searching for Italy</title>
-    <sub-title>Bologna</sub-title>
-    <desc>Stanley Tucci explores Bologna, seen by many as the food capital of Italy.</desc>
+  <programme start="20260814094500 +0100" stop="20260814101000 +0100" channel="4508">
+    <title>The Middle</title>
+    <sub-title>The Royal Flush</sub-title>
+    <desc>Axl is offered a life-changing job interview.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="4501">
-    <title>James Martin's Spanish Adventure</title>
-    <sub-title>Castilla-La Mancha</sub-title>
-    <desc>In Castilla-La Mancha James is introduced to Carcamusa, he tries local Marzipan, we meet an organic honey producer, and he sees how Manchego is made.</desc>
+  <programme start="20260814101000 +0100" stop="20260814103500 +0100" channel="4508">
+    <title>The Middle</title>
+    <sub-title>Split Decision</sub-title>
+    <desc>Frankie tries to stop Axl from moving to Denver for a job.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814103500 +0100" stop="20260814110000 +0100" channel="4508">
+    <title>2 Broke Girls</title>
+    <sub-title>And The Not Broke Parents</sub-title>
+    <desc>Max is very uncomfortable when Deke takes her home to meet his wealthy parents, until she learns a secret about his mothers past.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814112500 +0100" channel="4508">
+    <title>2 Broke Girls</title>
+    <sub-title>And The Wedding Cake Cake Cake</sub-title>
+    <desc>Max and Caroline have their work cut out when they agree to make a wedding cake for a very difficult bride.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030000 +0100" channel="4501">
@@ -3685,16 +3651,16 @@
     <desc>With the Grand Finale just around the corner, the Top 5 duos face a MasterChef rite of passage - The Wall.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813002500 +0100" stop="20260813012000 +0100" channel="4510">
-    <title>Melh we Felfel</title>
-    <sub-title>Episode 5</sub-title>
-    <desc>In Melh W Felfel (Salt &amp; Pepper), Chef Wafaa Alkanderi guides viewers through easy, healthy, and delicious recipes designed for the whole family, helping parents prepare meals that both kids and adults will love.</desc>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="4501">
+    <title>Hell's Kitchen</title>
+    <sub-title>Til Chef Do Us Part</sub-title>
+    <desc>Season 20 winner Trenton Garvey returns to get married live in Hell’s Kitchen and the chefs are tasked with creating a menu of appetizers and entrees to be served during the wedding reception.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813012000 +0100" stop="20260813021500 +0100" channel="4510">
-    <title>Street Food (Aka Akl Shaware)</title>
-    <sub-title>26</sub-title>
-    <desc>Street Food is an Egyptian cooking show presented by Amr Helmy.</desc>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="4501">
+    <title>John and Lisa's Weekend Kitchen</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>John and Lisa start with a recipe for cheat’s blinis and a variety of toppings from tapenade to pickled cucumber. Then it’s a Classic Prawn Cocktail and a different sort of cocktail to go with it - A Toffee Vodka Espresso Martini.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813021500 +0100" stop="20260813031000 +0100" channel="4510">
@@ -3913,16 +3879,16 @@
     <desc>Chef Mohammed Orfali will take us on a kitchen journey creating the best dishes with meat, a mix of traditional and international food that is red meat based.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260812234500 +0100" stop="20260813011500 +0100" channel="308">
-    <title>90 Day Fianc?</title>
-    <sub-title>The Ball And Chain</sub-title>
-    <desc>Josh confronts Catie's old fling at her birthday party. Edward is grilled by Marissa's mum, and Debby struggles as Mido questions returning to Egypt.</desc>
+  <programme start="20260814101500 +0100" stop="20260814110500 +0100" channel="4510">
+    <title>The House Of Desserts</title>
+    <sub-title>Episode 8</sub-title>
+    <desc>Hosted by a young talent Lina Masad, joined by her little co-host, Sina Walid, it's a nostalgic show about what baking and making cakes and desserts means to every girl or woman. ​</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813011500 +0100" stop="20260813020000 +0100" channel="308">
-    <title>Welcome To Plathville</title>
-    <sub-title>Meet the Plaths</sub-title>
-    <desc>Kim and Barry Plath face a tough decision for 16-year-old daughter Moriah.</desc>
+  <programme start="20260814110500 +0100" stop="20260814120000 +0100" channel="4510">
+    <title>Matbakh Manal Al Alem: Halaweyat</title>
+    <sub-title>Episode 27</sub-title>
+    <desc>The Queen of Arab Cuisine, Chef Manal Al Alem, will once again prepare the Ramadan table with an amazing blend of traditional Arabic sweets as well as oriental sweets.  And seeing Ramadan papers Ramadan.?</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813024500 +0100" channel="308">
@@ -4189,16 +4155,10 @@
     <desc>Angela meets Michael's friends, and Colt is torn between his mom and Jess.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813000500 +0100" stop="20260813010000 +0100" channel="4509">
-    <title>AL Ameed</title>
-    <sub-title>Domino</sub-title>
-    <desc>Salma and Murad finally find the little girl. Facing difficulties in questioning her, Murad makes a risky move.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813010000 +0100" stop="20260813015000 +0100" channel="4509">
-    <title>One Last Sin - Khatia Akhira</title>
-    <sub-title>Episode 27</sub-title>
-    <desc>Love and happiness come at a high price for Karma.Basima declares war on everyone. Wijdan turns against Hazem while Lynn and Tina land in new trouble.</desc>
+  <programme start="20260814103700 +0100" stop="20260814112400 +0100" channel="308">
+    <title>Darcey &amp; Stacey</title>
+    <sub-title>Crowned And Miami Bound</sub-title>
+    <desc>Darcey and Stacey are gearing up for an exciting year of transformation as they travel to Turkey, plan a double wedding and, maybe, welcome a baby.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813015000 +0100" stop="20260813024000 +0100" channel="4509">
@@ -4441,16 +4401,22 @@
     <desc>The department receives news of the new director’s arrival, becoming Bu Talal’s main concern.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813001000 +0100" stop="20260813010000 +0100" channel="309">
-    <title>Al Tufah Al Haram</title>
-    <sub-title>Episode 66</sub-title>
-    <desc>Halit's regaining his former power was welcomed with joy by everyone and the Argun family returned to their old order. Halit's goal is to regain Yildiz, who supported him a lot in his difficult days, and to remarry with her.</desc>
+  <programme start="20260814095500 +0100" stop="20260814103000 +0100" channel="4509">
+    <title>Taqdeer El Ihtiyaj</title>
+    <sub-title>He Who Watches People</sub-title>
+    <desc>Kfaya conducts a series of interviews to assess the efficiency of the employees and the department.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813020500 +0100" channel="309">
-    <title>Sadikaty Al Mozhila</title>
-    <sub-title>Al Maal</sub-title>
-    <desc>As fourth grade draws to an end, Elena and Lila fight with their families for the chance to continue their education. Later, a trip out of town becomes a day Elena will never forget, and a death changes things in the neighbourhood forever.</desc>
+  <programme start="20260814103000 +0100" stop="20260814110000 +0100" channel="4509">
+    <title>Taqdeer El Ihtiyaj</title>
+    <sub-title>The Circulars War</sub-title>
+    <desc>Kfaya issues new directives, including activating computers on employees’ desks through the IT department led by Hadi.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814113500 +0100" channel="4509">
+    <title>Taqdeer El Ihtiyaj</title>
+    <sub-title>Don’t Make It a Big Deal</sub-title>
+    <desc>Bandar is tasked with signing an important transaction from his tribe, but Ali Dhiab refuses for ethical reasons.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020500 +0100" stop="20260813030000 +0100" channel="309">
@@ -4687,10 +4653,17 @@
     <desc>Mira visits Zainab’s house to congratulate her on her marriage to Junaid without informing her father.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813012000 +0100" channel="306">
-    <title>11:11</title>
-    <desc>The story of three people who are put on path with a stray bullet coming out of a troubled Lawyer's gun when he decided to commit suicide in his car.</desc>
-    <category>movie</category>
+  <programme start="20260814100600 +0100" stop="20260814105400 +0100" channel="309">
+    <title>Worood Hamra - Red Roses</title>
+    <sub-title>Episode 29</sub-title>
+    <desc>Maryam is shocked by Sovay’s decision to take his own life. She also reveals important details about an old photo.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814105400 +0100" stop="20260814114200 +0100" channel="309">
+    <title>Worood Hamra - Red Roses</title>
+    <sub-title>Episode 30</sub-title>
+    <desc>Beste gets upset about Maryam being close to her husband and tries to push her away from him by any means.</desc>
+    <category>episode</category>
   </programme>
   <programme start="20260813012000 +0100" stop="20260813030500 +0100" channel="306">
     <title>Voy! Voy! Voy!</title>
@@ -4797,97 +4770,10 @@
     <desc>Ali, the fugitive from a murder he does not know whether he committed it or not, sets out to uncover truth with the help of his friend, the lawyer and his neighbor.</desc>
     <category>movie</category>
   </programme>
-  <programme start="20260813002300 +0100" stop="20260813004900 +0100" channel="4506">
-    <title>Ronja The Robber's Daughter</title>
-    <sub-title>Enemy in the Fort</sub-title>
-    <desc>Ronja learns that Birk is the son of Borka, her father’s longtime adversary.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813004900 +0100" stop="20260813011700 +0100" channel="4506">
-    <title>Operation Ouch</title>
-    <sub-title>Secret Lifesaver</sub-title>
-    <desc>The Doctors demonstrate how our body movements are controlled by confusing their very own brains! Dr Chris lets a blood-sucking leech feed on his arm and Dr Xand goes on call with an emergency ambulance team.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813011700 +0100" stop="20260813012200 +0100" channel="4506">
-    <title>Enchantimals: Tales from Everwilde</title>
-    <sub-title>Battle of the Branches</sub-title>
-    <desc>Merit and Larissa let their competitive natures get out of hand when their Besties face off in an 
-enchanted tree-climbing challenge.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813012200 +0100" stop="20260813012400 +0100" channel="4506">
-    <title>Adam Wa Mishmish</title>
-    <sub-title>Color With Adam And Mishmish</sub-title>
-    <desc>Adam goes on a walk with his grandfather and explores the world of colors all around him in nature and everyday life.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813012400 +0100" stop="20260813012600 +0100" channel="4506">
-    <title>Adam Wa Mishmish</title>
-    <sub-title>Shapes With Adam And Mishmish</sub-title>
-    <desc>Adam and Mishmish introduce children to basic shapes like the circle, square, triangle, and rectangle through a fun and catchy song.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813012600 +0100" stop="20260813012800 +0100" channel="4506">
-    <title>Barbie &amp; Barbie On Set</title>
-    <sub-title>Barbie's Dance Moves Are A Masterpiece!</sub-title>
-    <desc>After meeting the show's choreographer, Barbie creates some eye-catching dance moves of her own!</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813012800 +0100" stop="20260813013600 +0100" channel="4506">
-    <title>Tee and Mo</title>
-    <sub-title>Action Ape</sub-title>
-    <desc>It's bathtime but Tee wants one more game with his favourite toy Action Ape! Mo needs to find a way to get Tee into the bath and causes some bubble trouble!</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813013600 +0100" stop="20260813013900 +0100" channel="4506">
-    <title>Duplo Adventures</title>
-    <sub-title>Time to Travel Musical</sub-title>
-    <desc>There are lots of ways to go on vacation; travelling by plane, driving to campsites, or taking a train, and many kinds of destinations.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813013900 +0100" stop="20260813014200 +0100" channel="4506">
-    <title>Duplo Adventures</title>
-    <sub-title>Our Four Legged Friends</sub-title>
-    <desc>Life on the farm is fun, but there’s a lot of animals to care for! We’ll learn how to feed and clean animals, and help them when their sick or hurt.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813014200 +0100" stop="20260813014500 +0100" channel="4506">
-    <title>Duplo Adventures</title>
-    <sub-title>Our Four Legged Friends Musical</sub-title>
-    <desc>Life on the farm is fun, but there’s a lot of animals to care for! We’ll learn how to feed and clean animals, and help them when their sick or hurt.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813014500 +0100" stop="20260813014800 +0100" channel="4506">
-    <title>Duplo Adventures</title>
-    <sub-title>Different Places and Spaces</sub-title>
-    <desc>The Steam Train is filled with animals from all over the world  who need to be delivered to their homes, like lions, giraffes, whales and many others.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813014800 +0100" stop="20260813020000 +0100" channel="4506">
-    <title>Charlie and Lola</title>
-    <sub-title>I Can't Stop Hiccupping</sub-title>
-    <desc>Lola and Lotta are practising their song for the school concert that evening.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813020000 +0100" stop="20260813020800 +0100" channel="4506">
-    <title>Tee and Mo</title>
-    <sub-title>Action Ape</sub-title>
-    <desc>It's bathtime but Tee wants one more game with his favourite toy Action Ape! Mo needs to find a way to get Tee into the bath and causes some bubble trouble!</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813020800 +0100" stop="20260813021400 +0100" channel="4506">
-    <title>Enchantimals: Tales from Everwilde</title>
-    <sub-title>Battle of the Branches</sub-title>
-    <desc>Merit and Larissa let their competitive natures get out of hand when their Besties face off in an 
-enchanted tree-climbing challenge.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813021400 +0100" stop="20260813021600 +0100" channel="4506">
-    <title>Adam Wa Mishmish</title>
-    <sub-title>Color With Adam And Mishmish</sub-title>
-    <desc>Adam goes on a walk with his grandfather and explores the world of colors all around him in nature and everyday life.</desc>
-    <category>episode</category>
+  <programme start="20260814102500 +0100" stop="20260814114500 +0100" channel="306">
+    <title>11:11</title>
+    <desc>The story of three people who are put on path with a stray bullet coming out of a troubled Lawyer's gun when he decided to commit suicide in his car.</desc>
+    <category>movie</category>
   </programme>
   <programme start="20260813021600 +0100" stop="20260813021800 +0100" channel="4506">
     <title>Adam Wa Mishmish</title>
@@ -6017,34 +5903,70 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Things get tricky for Little Princess when the mess in her room gets out of hand and teddy bear Gilbert suddenly goes missing…</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813001500 +0100" stop="20260813004000 +0100" channel="5663">
-    <title>The Patrick Star Show</title>
-    <sub-title>Movie Stars / Dr. Smart Science</sub-title>
-    <desc>Patrick and SpongeBob work at the movie theater to watch a new premiere. With Sandy's guidance, Patrick hosts a science show</desc>
+  <programme start="20260814093700 +0100" stop="20260814094800 +0100" channel="4506">
+    <title>Little Princess</title>
+    <sub-title>I Want a Trumpet</sub-title>
+    <desc>When a new music box arrives at the castle and captures everyone’s attention, Little Princess decides she should play an instrument too.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813004000 +0100" stop="20260813010500 +0100" channel="5663">
-    <title>The Patrick Star Show</title>
-    <sub-title>Squidina's Little Helper / I Smell A Pat</sub-title>
-    <desc>The Patrick Star Show is interrupted by a most peculiar stench.  Squidina hires an assistant who's a little too good at his job.</desc>
+  <programme start="20260814094800 +0100" stop="20260814101300 +0100" channel="4506">
+    <title>Mix Master</title>
+    <sub-title>Don't Mess With Moreen (I mean it!)</sub-title>
+    <desc>Moreen is born with the ability to predict the future. People ostracize her because they think she is cursed.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813010500 +0100" stop="20260813011500 +0100" channel="5663">
-    <title>The Patrick Star Show</title>
-    <sub-title>The Patterfly Effect</sub-title>
-    <desc>Follow SpongeBob's best friend, and everyone's favourite sea star, at home with his family as he hosts an imaginary variety show that comes from the bizarre depths of his brain.</desc>
+  <programme start="20260814101300 +0100" stop="20260814102100 +0100" channel="4506">
+    <title>Tee and Mo</title>
+    <sub-title>Grumpy</sub-title>
+    <desc>Tee wakes up in a grumpy mood. He’s even too grumpy for breakfast! It’s up to Mo to put a smile on Tee’s face but this proves more difficult than she thought.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813011500 +0100" stop="20260813013500 +0100" channel="5663">
-    <title>Sonic Prime</title>
-    <sub-title>A Madness to Their Methods</sub-title>
-    <desc>Rebel Rouge and Renegade Knuckles walk the newly liberated streets of New Yoke City unsure what's next, but at least they're free. Until... the Mothership redocks atop the YOKE, Sonic and Dread - stowaways - fall to the streets below, fates uncertain</desc>
+  <programme start="20260814102100 +0100" stop="20260814104400 +0100" channel="4506">
+    <title>Dragons: The Nine Realms</title>
+    <sub-title>Cold Open</sub-title>
+    <desc>Tom and the riders discover the Ice Realm and find Buzzsaw inside.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813013500 +0100" stop="20260813020000 +0100" channel="5663">
-    <title>The Thundermans: Undercover</title>
-    <sub-title>The Parent Zap</sub-title>
-    <desc>After Phoebe and Max let Chloe's friends watch a horror movie and eat candy, Jinx and Booch's parents want to meet Chloe's. With Hank and Barb away, Max and Phoebe transform into them to help Chloe. It goes well until the real Hank and Barb show up.</desc>
+  <programme start="20260814104400 +0100" stop="20260814105600 +0100" channel="4506">
+    <title>Charlie and Lola</title>
+    <sub-title>But I Am Completely Hearing and Also Listening</sub-title>
+    <desc>Lola thinks that she’s very good at listening.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814105600 +0100" stop="20260814105900 +0100" channel="4506">
+    <title>Duplo Adventures</title>
+    <sub-title>Halloween Harvest</sub-title>
+    <desc>Leo, Pip, and Puggy search for the Veggie-Boos before they miss their Halloween Festival show.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814105900 +0100" stop="20260814110200 +0100" channel="4506">
+    <title>Duplo Adventures</title>
+    <sub-title>Halloween Harvest Musical</sub-title>
+    <desc>Leo, Pip, and Puggy search for the Veggie-Boos before they miss their Halloween Festival show.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814110200 +0100" stop="20260814110500 +0100" channel="4506">
+    <title>Duplo Adventures</title>
+    <sub-title>Halloween Harvest Sing-a-long</sub-title>
+    <desc>Leo, Pip, and Puggy search for the Veggie-Boos before they miss their Halloween Festival show.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814110500 +0100" stop="20260814110800 +0100" channel="4506">
+    <title>Duplo Adventures</title>
+    <sub-title>Around On The Bus</sub-title>
+    <desc>Leo and Pip ride the bus up, down, and all around looking for Puggy who is looking for them, too!</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814110800 +0100" stop="20260814111600 +0100" channel="4506">
+    <title>Bing</title>
+    <sub-title>Hearts</sub-title>
+    <desc>Bing and Sula are stickie-ing their fravrit things, but can they both stickie Hoppity Voosh?</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814111600 +0100" stop="20260814112400 +0100" channel="4506">
+    <title>Bing</title>
+    <sub-title>Storytime</sub-title>
+    <desc>It's bathtime! Bing wants to read his fravrit story in the bath but it gets all drippy wet!</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813022500 +0100" channel="5663">
@@ -6571,34 +6493,34 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Ever wonder what it�s like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813001500 +0100" stop="20260813003500 +0100" channel="5671">
-    <title>Best and Bester</title>
-    <sub-title>Get the Hump / Sing For Your Supper</sub-title>
-    <desc>Best and Bester are a pair of hilariously individual twins who live in a weird and wonderful alternate reality where your neighbour could be a pair of disgruntled trousers or your best friend a floating cloud of bottom burp.</desc>
+  <programme start="20260814095000 +0100" stop="20260814100000 +0100" channel="5663">
+    <title>The Loud House</title>
+    <sub-title>The Write Stuff</sub-title>
+    <desc>When Lucy quits the writing club at school due to the by-the-books way Huggins runs the club, Mom takes over.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813003500 +0100" stop="20260813005500 +0100" channel="5671">
-    <title>Best and Bester</title>
-    <sub-title>The Big Game / Get Your Skate On</sub-title>
-    <desc>Best and Bester are a pair of hilariously individual twins who live in a weird and wonderful alternate reality where your neighbour could be a pair of disgruntled trousers or your best friend a floating cloud of bottom burp.</desc>
+  <programme start="20260814100000 +0100" stop="20260814103000 +0100" channel="5663">
+    <title>Sonic Prime</title>
+    <sub-title>Second Wind</sub-title>
+    <desc>Knuckles the Dread's pirate crew rages against Dr. Deep and Dr. Done It. The Eggforcers triumph and take Dredd's shard, abandoning the captive Rusty Rose behind, gutting any allegiance she felt. The doctors' escape, is halted by mystery energy.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813012000 +0100" channel="5671">
-    <title>Big Nate</title>
-    <sub-title>Fuller House</sub-title>
-    <desc>Nate's life is upended when two new family members show up at his doorstep, including a &quot;younger brother&quot;...who looks older than Martin.</desc>
+  <programme start="20260814103000 +0100" stop="20260814105000 +0100" channel="5663">
+    <title>The Thundermans</title>
+    <sub-title>Parents Just Don't Thunderstand</sub-title>
+    <desc>Frustrated by the family's rules, Phoebe and Max use one his devices to make Hank and Barb act like teenagers. But the responsibility of now having to be the parents makes the teenagers regret their actions.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813012000 +0100" stop="20260813014500 +0100" channel="5671">
-    <title>Rise Of The Teenage Mutant Ninja Turtles</title>
-    <sub-title>War and Pizza / Newsworthy</sub-title>
-    <desc>The Turtles help April throw a not-so-happy birthday party. // This just in: anchor man turned mutant-worm used to report the news, now he's making headlines.</desc>
+  <programme start="20260814105000 +0100" stop="20260814111500 +0100" channel="5663">
+    <title>The Thundermans</title>
+    <sub-title>Shred It Go</sub-title>
+    <desc>Phoebe is devastated when she thinks the family's new shredder has accidentally destroyed her MKTO concert tickets, not realizing that Max actually has them and is secretly planning to take his crush to the concert Guest Stars: Sydney Park, MKTO</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813014500 +0100" stop="20260813020500 +0100" channel="5671">
-    <title>T.U.F.F. Puppy</title>
-    <sub-title>Dudley Do-Wrong/ Puppy Unplugged</sub-title>
-    <desc>Join Dudley Puppy, aka Tuff Puppy, and Kitty Katswell, partners in the secret crime-fighting organization T.U.F.F. - Turbo Undercover Fighting Force - as they protect their hometown of Petropolis - and the world - from evil.</desc>
+  <programme start="20260814111500 +0100" stop="20260814113500 +0100" channel="5663">
+    <title>The Thundermans</title>
+    <sub-title>Pheebs Will Rock You</sub-title>
+    <desc>Phoebe tries to turn herself into a bad girl to appeal to Max's new best friend, a bad boy rocker who is the key member of Max's new band. Guest Star: Lizzie Green</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020500 +0100" stop="20260813022500 +0100" channel="5671">
@@ -7157,28 +7079,34 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>It's the annual foam-fisted all-camp karate battle, and SpongeBob trains to beat the butt-kicking Sandy. // It's the hottest day of summer, but there's only one AC in the whole camp.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813002500 +0100" stop="20260813005000 +0100" channel="5670">
-    <title>PAW Patrol</title>
-    <sub-title>Pups Save an Elephant Family / Pups and the Mischi</sub-title>
-    <desc>The pups' road trip through the savanna becomes a mission to reunite and rescue an elephant family! // To win the Spotless Town award, the PAW Patrol pups must save Adventure Bay from Mayer Humdinger's Kitten Catastrophe Crew!</desc>
+  <programme start="20260814095000 +0100" stop="20260814101000 +0100" channel="5671">
+    <title>Kamp Koral: Spongebob's Under Years</title>
+    <sub-title>First Aid Last Aid / Night of the Living Stench</sub-title>
+    <desc>Camp Master Krabs finally hires a camp nurse, but she needs to dedicate all her time and effort to keeping SpongeBob safe. // When all the campers try to win the 'Stinkiest Camp in the Forest' award, Squidward has to fend for his life to stay clean.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813005000 +0100" stop="20260813011000 +0100" channel="5670">
-    <title>Deer Squad</title>
-    <sub-title>Meteor Mayhem / Dance Of Destruction</sub-title>
-    <desc>Deer Squad is an animated adventure rescue series about four loveable, enthusiastic and heroic young deer friends - Kai, Lola, Rammy, and Bobbi, who protect the animals of Central Forest and the humans who inhabit Platinum City.</desc>
+  <programme start="20260814101000 +0100" stop="20260814103500 +0100" channel="5671">
+    <title>The Loud House</title>
+    <sub-title>Party Fowl / Sleepless in Royal Woods</sub-title>
+    <desc>When Sergio stays at the Louds, he soon gets into trouble when he doesn't want to hang out with the rest of the pets. Unable to get Lily to go to sleep, Mom takes her for a drive where they happen to witness a burglary.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813011000 +0100" stop="20260813013500 +0100" channel="5670">
-    <title>Ben &amp; Holly's Little Kingdom</title>
-    <sub-title>The Toy Robot / Big Bad Barry</sub-title>
-    <desc>The friends fix a broken toy robot, but it begins to act very strange due to the magic key they put in it. // King Thistle goes fishing with Mr Elf, Ben &amp; Holly, and decides they should catch the meanest fish ever - Big Bad Barry - for their supper.</desc>
+  <programme start="20260814103500 +0100" stop="20260814105500 +0100" channel="5671">
+    <title>The Loud House</title>
+    <sub-title>Hunn-cut Gems / Can't Lynn Em All</sub-title>
+    <desc>When Liam fills in as a reporter, the school soon falls in love with Liam's life on Hunnicutt Farms. // When Lynn is scouted for her athletic prowess, she soon becomes a professional Wrestler.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813013500 +0100" stop="20260813015500 +0100" channel="5670">
-    <title>Tim Rex in Space</title>
-    <sub-title>Roadtrip / Tickets / Talent Show</sub-title>
-    <desc>The Rex family go on a road trip through the galaxy to get to Rocket World.</desc>
+  <programme start="20260814105500 +0100" stop="20260814111500 +0100" channel="5671">
+    <title>The Loud House</title>
+    <sub-title>Bye Tanya / What Lies Beneath</sub-title>
+    <desc>Leni must protect her mannequin friend Tanya when her boss, Ms. Carmichael, decides to update Reininger's. When Dante buries a secret in The Royal Woods Cemetery, he must stop the Morticians Club from discovering what it is.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814111500 +0100" stop="20260814113000 +0100" channel="5671">
+    <title>The Loud House</title>
+    <sub-title>Room and Hoard</sub-title>
+    <desc>Unable to part with their childhood toys, the kids try to convince Mom and Dad that they still play with them.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813015500 +0100" stop="20260813022000 +0100" channel="5670">
@@ -7727,64 +7655,34 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Every barbababy is invited to show their greatest talent on stage.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813002000 +0100" stop="20260813003500 +0100" channel="4507">
-    <title>The Amazing World Of Gumball</title>
-    <sub-title>The Web</sub-title>
-    <desc>The students find their world turned upside down.</desc>
+  <programme start="20260814094000 +0100" stop="20260814100000 +0100" channel="5670">
+    <title>Mr. Crocodile</title>
+    <sub-title>Finders Keepers / Dancing Croc</sub-title>
+    <desc>Mr. Crocodile takes the motto &quot;finders, keepers&quot; a bit too far.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813003500 +0100" stop="20260813004500 +0100" channel="4507">
-    <title>The Amazing World Of Gumball</title>
-    <sub-title>The Inquisition</sub-title>
-    <desc>The students find their world turned upside down.</desc>
+  <programme start="20260814100000 +0100" stop="20260814102500 +0100" channel="5670">
+    <title>Blaze and the Monster Machines</title>
+    <sub-title>Super Wheels vs. Pancakeio</sub-title>
+    <desc>When Pancakeio the Pancake Wizard takes all the pancakes in Axle City, it's up to Blaze, Stripes, and Starla to become superheroes! Using their Super Wheels, they've got to get those pancakes back- just in time for breakfast!</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813004500 +0100" stop="20260813005500 +0100" channel="4507">
-    <title>The Amazing World Of Gumball</title>
-    <sub-title>The Re-Run</sub-title>
-    <desc>Gumball realises that he's lived this day before.</desc>
+  <programme start="20260814102500 +0100" stop="20260814104500 +0100" channel="5670">
+    <title>Blaze and the Monster Machines</title>
+    <sub-title>Valentine's Day Rescue</sub-title>
+    <desc>It's Valentine's Day! But when Zeg, Darington and Starla get lost on their way to the Valentine's Day party, it's up to Blaze and AJ to rescue them.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813005500 +0100" stop="20260813010500 +0100" channel="4507">
-    <title>The Amazing World Of Gumball</title>
-    <sub-title>The Stories</sub-title>
-    <desc>Gumball and Darwin are fed up with Molly's anecdotes.</desc>
+  <programme start="20260814104500 +0100" stop="20260814111000 +0100" channel="5670">
+    <title>Rubble &amp; Crew</title>
+    <sub-title>The Crew Builds A Conveyor Belt Restaurant / The C</sub-title>
+    <desc>Rubble &amp; Crew want to help open a new restaurant for everyone at the Buddy Walk Race... but they can't decide what kind of restaurant to build! // When Grandpa Gravel is feeling under the weather, Rubble &amp; Crew step in to make his signature soup.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813010500 +0100" stop="20260813012000 +0100" channel="4507">
-    <title>The Amazing World Of Gumball</title>
-    <sub-title>The Boredom</sub-title>
-    <desc>Gumball and Darwin think nothing interesting is happening.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813012000 +0100" stop="20260813013000 +0100" channel="4507">
-    <title>The Amazing World Of Gumball</title>
-    <sub-title>The Vision</sub-title>
-    <desc>Gumball and Darwin accidentally find a sinister secret.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813013000 +0100" stop="20260813014000 +0100" channel="4507">
-    <title>The Amazing World Of Gumball</title>
-    <sub-title>The Loophole</sub-title>
-    <desc>Bobert takes things far too literally.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813014000 +0100" stop="20260813015000 +0100" channel="4507">
-    <title>The Amazing World Of Gumball</title>
-    <sub-title>The News</sub-title>
-    <desc>All the breaking stories from the Elmore newsroom.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813015000 +0100" stop="20260813020000 +0100" channel="4507">
-    <title>The Amazing World Of Gumball</title>
-    <sub-title>The Vase</sub-title>
-    <desc>Nicole and the kids are sick of Granny Jojo’s ugly gifts.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813020000 +0100" stop="20260813021000 +0100" channel="4507">
-    <title>The Amazing World Of Gumball</title>
-    <sub-title>The Ollie</sub-title>
-    <desc>Gumball kind of teaches Darwin how to be a skater…</desc>
+  <programme start="20260814111000 +0100" stop="20260814113000 +0100" channel="5670">
+    <title>Rubble &amp; Crew</title>
+    <sub-title>The Crew Fixes The Observatory / The Crew Builds A</sub-title>
+    <desc>Rubble &amp; Crew are ready to replace the broken telescope lens at the Observatory. Until it starts a fiery fiasco during delivery! / Cafe Carl's kittens cause construction chaos in the Bark Yard! Can the crew create a conclusion to the cat catastrophe?</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813021000 +0100" stop="20260813022000 +0100" channel="4507">
@@ -8747,22 +8645,58 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>The new coach at Elmore High stands up to Jamie.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813002900 +0100" stop="20260813005900 +0100" channel="310">
-    <title>KiiYii</title>
-    <sub-title>When Everything Goes Hilariously Wrong!</sub-title>
-    <desc>Everything goes hilariously wrong! Robot gets stuck in jelly &amp; Princess Cat's castle fills with bubbles!</desc>
+  <programme start="20260814093500 +0100" stop="20260814094500 +0100" channel="4507">
+    <title>The Amazing World of Gumball</title>
+    <sub-title>The Joy</sub-title>
+    <desc>Miss Simian has to save herself from a contagious Joy virus infecting the whole school.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813005900 +0100" stop="20260813013500 +0100" channel="310">
-    <title>Gecko's Garage Classics</title>
-    <sub-title>Malfunctions, Mayhem &amp; Rescues!</sub-title>
-    <desc>Gecko�s Garage is a repair shop that cares! Run by cheerful mechanic Gecko &amp; his trusty robot sidekicks.</desc>
+  <programme start="20260814094500 +0100" stop="20260814095500 +0100" channel="4507">
+    <title>Teen Titans Go!</title>
+    <sub-title>Hey You, Don't Forget About Me in Your Memory</sub-title>
+    <desc>Robin convinces the Titans to go back to school with him so he can finally become the all-American class president-type he's dreamed of being.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813013500 +0100" stop="20260813015900 +0100" channel="310">
-    <title>Gecko's Garage Classics</title>
-    <sub-title>Learning ABCs &amp; Fun Makeovers!</sub-title>
-    <desc>Gecko's Garage is a repair shop that cares! Run by cheerful mechanic Gecko &amp; his trusty robot sidekicks.</desc>
+  <programme start="20260814095500 +0100" stop="20260814100500 +0100" channel="4507">
+    <title>Teen Titans Go!</title>
+    <sub-title>The Fourth Wall</sub-title>
+    <desc>Control Freak informs the Titans that they are on a TV show.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814100500 +0100" stop="20260814101500 +0100" channel="4507">
+    <title>Teen Titans Go!</title>
+    <sub-title>40%, 40%, 20%</sub-title>
+    <desc>Cyborg's real strength comes not from his robot parts, but from his favorite song.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814101500 +0100" stop="20260814102500 +0100" channel="4507">
+    <title>Teen Titans Go!</title>
+    <sub-title>Grube's Fairytales</sub-title>
+    <desc>Robin tries to teach the Titans valuable life lessons.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814102500 +0100" stop="20260814104000 +0100" channel="4507">
+    <title>LEGO City: No Limits MAX</title>
+    <sub-title>Donut Derby</sub-title>
+    <desc>Jason races for the last donuts, then hits Derby.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814104000 +0100" stop="20260814105000 +0100" channel="4507">
+    <title>LEGO City: No Limits MAX</title>
+    <sub-title>Jungle vs. City</sub-title>
+    <desc>Mech‑Max and Wanda face beasts and robot guards.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814105000 +0100" stop="20260814111500 +0100" channel="4507">
+    <title>Totally Spies!</title>
+    <sub-title>Over-Simulated</sub-title>
+    <desc>Spy training goes wrong as Clover tries to impress Zerlina.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814111500 +0100" stop="20260814113500 +0100" channel="4507">
+    <title>Totally Spies!</title>
+    <sub-title>Mystery on the WOOHP Express</sub-title>
+    <desc>Clover’s romance plans derail on the WOOHP Express.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813015900 +0100" stop="20260813023100 +0100" channel="310">
@@ -9161,16 +9095,22 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Paint a giant portrait of The Bus with friends and then bake some delicious and creative muffins!</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813001800 +0100" stop="20260813004800 +0100" channel="5665">
-    <title>How Do They Do It?</title>
-    <sub-title>Turbochargers, Plastic Roads</sub-title>
-    <desc>How do they quadruple the power of the world's biggest engines with the most powerful turbochargers? How do they build new roads from old waste plastic?</desc>
+  <programme start="20260814095900 +0100" stop="20260814102800 +0100" channel="310">
+    <title>Lellobee City Farm</title>
+    <sub-title>Let's All Help Each Other!</sub-title>
+    <desc>Let's all help each other on the farm! The friends build a bird feeder, cheer up a sad horse &amp; share veggies!</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813004800 +0100" stop="20260813013800 +0100" channel="5665">
-    <title>Expedition X</title>
-    <sub-title>Ghosts In The Canal</sub-title>
-    <desc>Josh wants to investigate ghostly sightings and terrifying sounds coming from an abandoned canal along the Potomac. What will they uncover?</desc>
+  <programme start="20260814102800 +0100" stop="20260814105900 +0100" channel="310">
+    <title>Lellobee City Farm</title>
+    <sub-title>Creative Farm Adventures!</sub-title>
+    <desc>It's a creative farm adventure! Ella brings school to the barn, makes delicious jam &amp; does some stargazing!</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814105900 +0100" stop="20260814112500 +0100" channel="310">
+    <title>Morphle</title>
+    <sub-title>Tiny Heroes, Giant-Sized Adventures!</sub-title>
+    <desc>Mila &amp; Morphle are tiny heroes on giant adventures! They rescue a hamster from a maze &amp; save a shrunken whale!</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813013800 +0100" stop="20260813022800 +0100" channel="5665">
@@ -9413,16 +9353,16 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>As frigid temperatures hit southern Alaska, the Kilchers must get to work. Otto and Eivin salvage the shores of Kachemak Bay and Charlotte and Jane face a predator.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010000 +0100" channel="5668">
-    <title>Bodies In The Water</title>
-    <sub-title>An Ocean Of Secrets</sub-title>
-    <desc>When a missing high school student is found dead in the Atlantic Ocean, investigators uncover jealous boyfriends and turmoil within her foster family.</desc>
+  <programme start="20260814100600 +0100" stop="20260814105200 +0100" channel="5665">
+    <title>Alaska: The Last Frontier</title>
+    <sub-title>Gold Rush</sub-title>
+    <desc>Otto pays for his hernia surgery and ends up with gold fever. Meanwhile, Atz conquers old fears and reaches new heights as he races the freeze to complete his cabin.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="5668">
-    <title>The Friday the 13th Murders</title>
-    <sub-title>Obsession To Do Evil</sub-title>
-    <desc>On Friday the 13th, a teen obsessed with Satan and serial killers terrorizes a small Texas town. Survivors fight to stay alive as police race to stop him before dawn during a night-long rampage that leaves the town forever changed and scarred.</desc>
+  <programme start="20260814105200 +0100" stop="20260814113800 +0100" channel="5665">
+    <title>Salvage Hunters</title>
+    <sub-title>Trade Tip Offs</sub-title>
+    <desc>Drew Pritchard and Alister Dryburgh visit three promising new antique trade contacts who they've been tipped off about.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030000 +0100" channel="5668">
@@ -9617,16 +9557,16 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Two young women are executed in a burger joint but there are no witnesses. Could a helpful hooker and some revealing letters be just what detectives ordered?</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813001500 +0100" stop="20260813010000 +0100" channel="5661">
-    <title>Pawn Stars Do America</title>
-    <sub-title>Motor City Wheelin' and Dealin'</sub-title>
-    <desc>Rick, Corey, and Chum rev up their engines and roll into Detroit, Michigan. With their favourite experts in tow, Rick suits up for some samurai armour and tries to drive down the price of a luxury car collection.</desc>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="5668">
+    <title>NIGHTMARE NEXT DOOR</title>
+    <sub-title>Taste of Murder</sub-title>
+    <desc>Popular secretary Julie dies of cyanide poisoning after sipping water from the office cooler. But was she the killer's intended victim?</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813014500 +0100" channel="5661">
-    <title>History's Greatest Picks With Mike Wolfe</title>
-    <sub-title>Backyard Treasures</sub-title>
-    <desc>Whether unearthed in woodsheds, abandoned places, and even the local dump, these discarded and forgotten backyard discoveries lead to jaw-dropping jackpots.</desc>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="5668">
+    <title>The Murder Tapes</title>
+    <sub-title>Three Loud Booms</sub-title>
+    <desc>In what looks like a planned ambush, a man is found dead in his garage in Arizona. Police look into a romance gone wrong to find his killer.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813014500 +0100" stop="20260813023000 +0100" channel="5661">
@@ -9887,16 +9827,16 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>In this second episode, Bradley continues his journey through Egypt to unravel the mysteries of the Great Sphinx before descending underground into the enigmatic Serapeum with its precision-cut giant granite sarcophagi.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813011500 +0100" channel="5667">
-    <title>Clash Of The Gods</title>
-    <sub-title>Beowulf</sub-title>
-    <desc>The Viking world's most famous warrior, the legend of Beowulf is the ultimate tale of courage.</desc>
+  <programme start="20260814100000 +0100" stop="20260814104500 +0100" channel="5661">
+    <title>The Proof Is Out There</title>
+    <sub-title>Mississippi Bigfoot, UFO Shot Down Over Great...</sub-title>
+    <desc>Is famous footage of the Mississippi Bigfoot the real deal? Why did the White House order a UFO to be shot down over Lake Huron? What will forensic testing reveal about the alleged alien corpses presented to the Mexican government?</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813011500 +0100" stop="20260813020000 +0100" channel="5667">
-    <title>Ancient Aliens</title>
-    <sub-title>Alien Tech</sub-title>
-    <desc>Investigation into whether advanced technologies such as lasers and sonic weapons are merely rediscovered tools used by advanced beings in the past.</desc>
+  <programme start="20260814104500 +0100" stop="20260814113000 +0100" channel="5661">
+    <title>The Curse Of Oak Island</title>
+    <sub-title>Boulder and Wiser</sub-title>
+    <desc>When the team finds an artefact on Lot 8 that may date to medieval times, it leads them to another, massive discovery.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813024500 +0100" channel="5667">
@@ -10157,22 +10097,16 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>A look at the demise of the Roman Empire. Despite efforts from the last Emperor, the Romans become outnumbered by foreign invaders.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813004500 +0100" channel="212">
-    <title>Imperfect Murder</title>
-    <sub-title>Anderson</sub-title>
-    <desc>Follows carefully planned schemes that seem to ensure freedom for the killer despite having committed the most gruesome of crimes, yet end up falling apart based on a single detail.</desc>
+  <programme start="20260814101500 +0100" stop="20260814110000 +0100" channel="5667">
+    <title>Ancient Aliens</title>
+    <sub-title>Underground Aliens</sub-title>
+    <desc>From a cave in Ecuador said to hold metal tablets containing alien knowledge, to an underground city in Turkey, these are the stories of supposed extraterrestrial lairs.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813004500 +0100" stop="20260813013000 +0100" channel="212">
-    <title>Green Eyed Killers</title>
-    <sub-title>Tomas De La Riva</sub-title>
-    <desc>Tomas De La Riva was discovered dead in his red pickup truck, bearing multiple stab wounds. As detectives delve into the chilling case, they uncover a web of deceit and jealousy that points to two shocking suspects.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813013000 +0100" stop="20260813015500 +0100" channel="212">
-    <title>Motive to Murder</title>
-    <sub-title>Texas Tower Sniper</sub-title>
-    <desc>When a sniper randomly guns down students and pedestrians from atop the University of Texas clock tower, police have no plan in place for such an event. There�s pandemonium until two cops and a civilian join forces.</desc>
+  <programme start="20260814110000 +0100" stop="20260814114500 +0100" channel="5667">
+    <title>Cities Of The Underworld</title>
+    <sub-title>Gods Of War (Troy/Turkey)</sub-title>
+    <desc>As we descend beneath our modern day cities, we are met with ancient and hidden secrets. Journey with us back through history and rediscover cities of the underworld.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813015500 +0100" stop="20260813022500 +0100" channel="212">
@@ -10451,16 +10385,22 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>A beautiful young heiress travels abroad to Wales for college where she meets a local pub chef on a dating app.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813011500 +0100" channel="4505">
-    <title>Tanked</title>
-    <sub-title>San Francisco Giants Tank</sub-title>
-    <desc>The San Francisco Giants want to bring McCovey Cove inside the ballpark! Can the guys build a tank big enough to impress their loyal fans?</desc>
+  <programme start="20260814094500 +0100" stop="20260814103000 +0100" channel="212">
+    <title>Ozark Law</title>
+    <sub-title>Welcome To The Lake</sub-title>
+    <desc>The 4th of July around the Lake of the Ozarks kicks off as Chief Boren and his officers meet an uncooperative bar patron who's had too much of a good time. On the highway, Officer Kale Keagy encounters a suspected drunk driver.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813011500 +0100" stop="20260813020000 +0100" channel="4505">
-    <title>Animal Cops Houston</title>
-    <sub-title>Trinity</sub-title>
-    <desc>Investigators respond to a report of an injured dog. Events take a dramatic turn when they arrive to discover the dog's paw has been almost completely severed.</desc>
+  <programme start="20260814103000 +0100" stop="20260814111500 +0100" channel="212">
+    <title>Murder By Medic</title>
+    <sub-title>Alison Firth</sub-title>
+    <desc>When an elderly care home resident is discovered dead, staff members sense that something is amiss. A murder investigation begins into a nurse at the home, but when she becomes a victim of violent attacks, could someone else be responsible?</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814111500 +0100" stop="20260814120000 +0100" channel="212">
+    <title>Murder By Medic</title>
+    <sub-title>Genene Jones</sub-title>
+    <desc>Nurse Genene Jones is believed to have killed as many as sixty children in her care by injecting them with muscle relaxants and other drugs. One bereaved mother leads the charge to bring her to justice.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813024500 +0100" channel="4505">
@@ -10683,15 +10623,17 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>SPCA's cruelty investigators are called to an affluent suburb in the Houston area to rescue horses from a property. But for some animals, help has come too late.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813010000 +0100" channel="314">
-    <title>Song Of Parkland</title>
-    <desc>When drama teacher Melody Herzfeld heard the fire alarm on Feb 2018, she was with her students in rehearsals for their annual children’s musical. Moments later, a Code Red sounded. Herzfeld rushed her 65 students into a storage closet while a shooter killed 17 teachers</desc>
-    <category>movie</category>
+  <programme start="20260814101500 +0100" stop="20260814111000 +0100" channel="4505">
+    <title>Animal Cops Houston</title>
+    <sub-title>Human Trafficking Operation</sub-title>
+    <desc>A cruelty investigator is responding to a call from the sheriff's department. A pony has been dragged down a road, leaving it crippled with pain.</desc>
+    <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813021500 +0100" channel="314">
-    <title>Ghosts of Abu Ghraib</title>
-    <desc>A disturbing look at the abuses that occurred at the Abu Ghraib prison in Iraq. The film probes the effects of the abuses at the facility that earned infamy in the fall of 2003 when the shocking photos were leaked to the press.</desc>
-    <category>movie</category>
+  <programme start="20260814111000 +0100" stop="20260814120500 +0100" channel="4505">
+    <title>Lone Star Law</title>
+    <sub-title>Wild Riders</sub-title>
+    <desc>Game Wardens race to confront reckless jet skiers wreaking havoc at a boat ramp. Plus, a crabber turns hostile when caught without a fishing licence.</desc>
+    <category>episode</category>
   </programme>
   <programme start="20260813021500 +0100" stop="20260813035000 +0100" channel="314">
     <title>Ali &amp; Cavett: The Tale Of The Tapes</title>
@@ -10820,13 +10762,10 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Filmmaker Cullen Hoback dives into one of the most high-stakes mysteries in technology and finance: the origins of Bitcoin and the identity of its anonymous creator, Satoshi Nakamoto.</desc>
     <category>movie</category>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010000 +0100" channel="4504">
-    <title>Erin Burnett OutFront</title>
-    <desc>Host Erin Burnett gives her analysis of the trending news stories from across the globe.</desc>
-  </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="4504">
-    <title>Anderson Cooper 360</title>
-    <desc>Host Anderson Cooper invites experts to discuss key news stories from around the world.</desc>
+  <programme start="20260814102000 +0100" stop="20260814113000 +0100" channel="314">
+    <title>Happening: A Clean Energy Revolution</title>
+    <desc>Filmmaker Jamie Redford embarks on a colourful personal journey into the dawn of the clean energy era as it creates jobs, turns profits, and makes communities stronger and healthier across the United States of America.</desc>
+    <category>movie</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030000 +0100" channel="4504">
     <title>The Source With Kaitlan Collins</title>
@@ -10988,10 +10927,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>CNN Newsroom</title>
     <desc>The host shares the latest news stories on key issues in the US and worldwide.</desc>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813020000 +0100" channel="201">
-    <title>Bloomberg The Asia Trade</title>
-    <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
-    <category>episode</category>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="4504">
+    <title>CNN Headline Express</title>
+    <desc>The biggest headlines and most buzzworthy stories with live updates throughout the day.</desc>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="4504">
+    <title>CNN This Morning</title>
+    <desc>The hosts share key news stories, reports and events of national and global importance.</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813040000 +0100" channel="201">
     <title>Bloomberg: The China Show</title>
@@ -11124,13 +11066,15 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010000 +0100" channel="5664">
-    <title>Top Mix</title>
-    <desc>Top Mix</desc>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="201">
+    <title>Bloomberg Brief</title>
+    <desc>Delivering the market news, data and analysis you need to set your agenda.</desc>
+    <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="5664">
-    <title>Top Night</title>
-    <desc>Top Night</desc>
+  <programme start="20260814110000 +0100" stop="20260814140000 +0100" channel="201">
+    <title>Bloomberg Surveillance</title>
+    <desc>Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
+    <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030000 +0100" channel="5664">
     <title>Top Night</title>
@@ -11260,13 +11204,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Top Mix</title>
     <desc>Top Mix</desc>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010000 +0100" channel="222">
-    <title>RFM Hits</title>
-    <desc>A countdown of the week's biggest hits.</desc>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="5664">
+    <title>Top Mix</title>
+    <desc>Top Mix</desc>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="222">
-    <title>RFM Hits</title>
-    <desc>A countdown of the week's biggest hits.</desc>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="5664">
+    <title>Top Mix</title>
+    <desc>Top Mix</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030000 +0100" channel="222">
     <title>RFM Hits</title>
@@ -11396,15 +11340,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>RFM Hits</title>
     <desc>A countdown of the week's biggest hits.</desc>
   </programme>
-  <programme start="20260813001600 +0100" stop="20260813010100 +0100" channel="9908">
-    <title>Nasamat Ayloul</title>
-    <desc>As the olive harvest season kicks in, only Nawras and Shaheen are forced into the job. With the sun blazing above their heads, they (finally) decide to get some help.</desc>
-    <category>episode</category>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="222">
+    <title>RFM Hits</title>
+    <desc>A countdown of the week's biggest hits.</desc>
   </programme>
-  <programme start="20260813010100 +0100" stop="20260813020000 +0100" channel="9908">
-    <title>El Maddah: Ostouret El Nehaya</title>
-    <desc>An unwelcome patient shows up at Sameeh's clinic. Saber finds himself one step behind, as Mawt offers his help in exchange for the secret lying within the emerald.</desc>
-    <category>episode</category>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="222">
+    <title>RFM Hits</title>
+    <desc>A countdown of the week's biggest hits.</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030100 +0100" channel="9908">
     <title>Darb El Dahab</title>
@@ -11611,14 +11553,14 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>A close group of schoolmates decide to turn their lives into an investigative journey and look into the mysterious death of their best friend.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010100 +0100" channel="9976">
-    <title>Said El Aqareb</title>
-    <desc>After the murder of her older brother, strong-willed Aida must defy her family's conservatism to take things in charge and avenge his death.</desc>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="9908">
+    <title>Laffat Al Mamlaka</title>
+    <desc>Abdullah and Lu'ay visit the city of Jizan and its islands where a thrilling adventure awaits them. They organize social awareness activities to urge people to clean the beaches of Farasan Islands, and later go on sightseeing tours.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813010100 +0100" stop="20260813020100 +0100" channel="9976">
-    <title>Qorrat Aynik</title>
-    <desc>After being unjustly imprisoned for 25 years, Kaltham is released from prison to find all the doors closed in her face.</desc>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="9908">
+    <title>Al Liqaa Min Al Sifr</title>
+    <desc>Al Liqaa Min Al Sifr hosts visionaries from Saudi Arabia and the Arab world to walk us through their journeys to success. Today's guest is Sulaiman Al Saif.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020100 +0100" stop="20260813030100 +0100" channel="9976">
@@ -11781,14 +11723,14 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Set in a crime-ridden neighbourhood in Istanbul, two young lovers must push against familial and societal challenges to stay together.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813001000 +0100" stop="20260813010100 +0100" channel="9933">
-    <title>Fareed</title>
-    <desc>Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.</desc>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="9976">
+    <title>Qorrat Aynik</title>
+    <desc>After being unjustly imprisoned for 25 years, Kaltham is released from prison to find all the doors closed in her face.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813010100 +0100" stop="20260813020500 +0100" channel="9933">
-    <title>Seed Elnass</title>
-    <desc>Fathiya's plan to take revenge on Magdy goes sideways. Elsewhere, Tariq's sudden disappearance raises concern.</desc>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="9976">
+    <title>Mojamma' 75</title>
+    <desc>The interwoven stories of five families living in a high-end residential complex in Riyadh, highlighting the challenges, dreams, and values of Saudi youth.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020500 +0100" stop="20260813030100 +0100" channel="9933">
@@ -11931,20 +11873,14 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Kalam El Nas hosts your favourite guests, bringing the best of entertainment to your screen.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813004400 +0100" channel="9699">
-    <title>Fareed</title>
-    <desc>Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.</desc>
+  <programme start="20260814102000 +0100" stop="20260814110000 +0100" channel="9933">
+    <title>Ayyam</title>
+    <desc>While Abir turns to Karim for help after finding out that her gold is fake, Sulaiman asks Inshirah to bring him some cash hidden in his apartment.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813004400 +0100" stop="20260813013000 +0100" channel="9699">
-    <title>Parineetii</title>
-    <desc>Parineetii explores the complicated yet heartwarming story of two good friends whose lives intertwine in an unexpected manner.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813013000 +0100" stop="20260813021600 +0100" channel="9699">
-    <title>Aserati</title>
-    <desc>Naveen tells Ayra that she asked Kamyar to help her prepare for the exam. Meanwhile, Ayra's father informs Kamyar of his intention to wed his daughter to Khawar.</desc>
-    <category>episode</category>
+  <programme start="20260814110000 +0100" stop="20260814113000 +0100" channel="9933">
+    <title>Salat Al Jum'ah Men Masr</title>
+    <desc>Live broadcast of Friday prayers in Egypt.</desc>
   </programme>
   <programme start="20260813021600 +0100" stop="20260813030600 +0100" channel="9699">
     <title>Al Asouf</title>
@@ -12156,17 +12092,20 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Sami confronts Jenan about the video she shared on social media. Razan seeks Bibi's help to get Awatif's blessing in her relationship with Majed.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010000 +0100" channel="9957">
-    <title>Al Share' Al Saudi</title>
-    <desc>The host discusses an array of topics that concern each Saudi citizen.</desc>
+  <programme start="20260814094500 +0100" stop="20260814103000 +0100" channel="9699">
+    <title>Aserati</title>
+    <desc>When Irfan considers marrying his daughter to Kamyar and the latter's family agrees, bridges begin to form between the two families.</desc>
+    <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813010500 +0100" channel="9957">
-    <title>Mojaz Al Akhbar</title>
-    <desc>The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+  <programme start="20260814103000 +0100" stop="20260814111500 +0100" channel="9699">
+    <title>Al Asouf</title>
+    <desc>As the tide of history shifts with the invasion of Kuwait and the Gulf War, the Al Tayans find themselves having to overcome bigger hurdles.</desc>
+    <category>episode</category>
   </programme>
-  <programme start="20260813010500 +0100" stop="20260813020000 +0100" channel="9957">
-    <title>Al Zafer</title>
-    <desc>Historical characters encounter many social issues in their everyday lives.</desc>
+  <programme start="20260814111500 +0100" stop="20260814120000 +0100" channel="9699">
+    <title>Fareed</title>
+    <desc>Seeking to give his reckless grandson a lesson, rich patriarch Halis Aga decides to marry him to a girl from his hometown.</desc>
+    <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813023000 +0100" channel="9957">
     <title>Al Ayyam Al Khaleyah</title>
@@ -12364,17 +12303,17 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Fatawa</title>
     <desc>The host invites an Islamic scholar to answer the viewers' questions.</desc>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813010000 +0100" channel="6603">
-    <title>Doroub</title>
-    <sub-title>Episode 28</sub-title>
-    <desc>The host travels around the world to shed light on interesting landscapes and cultures.</desc>
-    <category>episode</category>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="9957">
+    <title>Salat Al Jumu'ah</title>
+    <desc>Muslims across the world gather to offer supplications to the Almighty Allah and perform the Friday prayer in different mosques.</desc>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="6603">
-    <title>Gaafar El Omda</title>
-    <sub-title>Episode 30</sub-title>
-    <desc>Safsaf tries to hide Sayed's slip of the tongue. Hamada warns Shawqi and Karem of Gaafar's silence.</desc>
-    <category>episode</category>
+  <programme start="20260814110000 +0100" stop="20260814110500 +0100" channel="9957">
+    <title>Mojaz Al Akhbar</title>
+    <desc>The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
+  </programme>
+  <programme start="20260814110500 +0100" stop="20260814120000 +0100" channel="9957">
+    <title>Semaat</title>
+    <desc>The narrator sheds light on the latest advancement and achievements in Saudi Arabia.</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030000 +0100" channel="6603">
     <title>Wa Nehib Tani Leh!</title>
@@ -12600,10 +12539,22 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>The presenter meets with various inspiring individuals who talk about values they live by.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813012200 +0100" channel="9939">
-    <title>Farawla</title>
-    <sub-title>Episode 2</sub-title>
-    <desc>After long last, Farawla crosses paths with good luck and transforms from a minor saleswoman to a celebrated energy expert but awakes to an annoying truth she brought forth.</desc>
+  <programme start="20260814094000 +0100" stop="20260814101000 +0100" channel="6603">
+    <title>Salat Al Jumu'ah</title>
+    <sub-title>Episode 87</sub-title>
+    <desc>Muslims across the world gather to perform the Friday prayer in different mosques.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814101000 +0100" stop="20260814110000 +0100" channel="6603">
+    <title>Qabel Le Al Niqash</title>
+    <sub-title>Episode 26</sub-title>
+    <desc>Discussions with prominent personalities to discuss cultural and social issues.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814113000 +0100" channel="6603">
+    <title>Doroub</title>
+    <sub-title>Episode 29</sub-title>
+    <desc>The host travels around the world to shed light on interesting landscapes and cultures.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813012200 +0100" stop="20260813023000 +0100" channel="9939">
@@ -12846,9 +12797,29 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>International News</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260812233000 +0100" stop="20260813013000 +0100" channel="9085">
-    <title>Al Nos Al Tani</title>
-    <desc>Characters encounter various social issues in their everyday lives.</desc>
+  <programme start="20260814094300 +0100" stop="20260814101000 +0100" channel="9939">
+    <title>Friday Prayer</title>
+    <sub-title>Episode 33</sub-title>
+    <desc>Live coverage of Salat Al-Juma'h (Friday Prayer).</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814101000 +0100" stop="20260814103300 +0100" channel="9939">
+    <title>Nasa'em</title>
+    <sub-title>Episode 31</sub-title>
+    <desc>Family well-being poses instructive discussions which define social &amp; legal rights of family members, &amp; their practice thereof based on Islamic legislative norms &amp; Year of Community initiative in UAE.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814103300 +0100" stop="20260814110000 +0100" channel="9939">
+    <title>Edge of the Unknown with Jimmy Chin</title>
+    <sub-title>Episode 6</sub-title>
+    <desc>Edge Of The Unknown With Jimmy Chin 1</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="9939">
+    <title>Farawla</title>
+    <sub-title>Episode 3</sub-title>
+    <desc>After long last, Farawla crosses paths with good luck and transforms from a minor saleswoman to a celebrated energy expert but awakes to an annoying truth she brought forth.</desc>
+    <category>episode</category>
   </programme>
   <programme start="20260813013000 +0100" stop="20260813040000 +0100" channel="9085">
     <title>Sahibat Al Saadah</title>
@@ -12951,25 +12922,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>6 Setat</title>
     <desc>The host discusses various social topics related to women, gives tips on how to maintain a healthy familial relationship and invites experts to talk about health and beauty.</desc>
   </programme>
-  <programme start="20260813001500 +0100" stop="20260813005500 +0100" channel="1101">
-    <title>Loghz 1990</title>
-    <desc>The wealth of businessmen gets investigated, which reveals networks of horrific crimes.</desc>
+  <programme start="20260814100000 +0100" stop="20260814103000 +0100" channel="9085">
+    <title>Fill In</title>
+    <desc>Cookery show.</desc>
   </programme>
-  <programme start="20260813005500 +0100" stop="20260813010000 +0100" channel="1101">
-    <title>Hadath Fi Methl Hatha Al Yawm</title>
-    <desc>The narrator sheds light on significant events that took place on this day in the past.</desc>
-  </programme>
-  <programme start="20260813010000 +0100" stop="20260813010500 +0100" channel="1101">
-    <title>Mojaz Al Akhbar</title>
-    <desc>The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
-  </programme>
-  <programme start="20260813010500 +0100" stop="20260813014200 +0100" channel="1101">
-    <title>Moqtatafaat Ekhbareyyah</title>
-    <desc>A comprehensive compilation of the latest news and updates from around the world.</desc>
-  </programme>
-  <programme start="20260813014200 +0100" stop="20260813014700 +0100" channel="1101">
-    <title>Al Fajr Prayer</title>
-    <desc>The mosque issues a call to prayer in the morning to worship the Almighty.</desc>
+  <programme start="20260814103000 +0100" stop="20260814113000 +0100" channel="9085">
+    <title>Salat Al Jumu'ah</title>
+    <desc>Muslims across the world gather to offer supplications to the Almighty Allah and perform the Friday prayer in different mosques.</desc>
   </programme>
   <programme start="20260813014700 +0100" stop="20260813024000 +0100" channel="1101">
     <title>Hawl Al A'alam</title>
@@ -13263,17 +13222,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Ma Tayassar</title>
     <desc>A group of well-known reciters gather to perform a recital of the Holy Quran.</desc>
   </programme>
-  <programme start="20260813001500 +0100" stop="20260813004500 +0100" channel="9043">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed.</desc>
+  <programme start="20260814094600 +0100" stop="20260814103500 +0100" channel="1101">
+    <title>Salat Al Jumu'ah</title>
+    <desc>Muslims across the world gather to offer supplications to the Almighty Allah and perform the Friday prayer in different mosques.</desc>
   </programme>
-  <programme start="20260813004500 +0100" stop="20260813013000 +0100" channel="9043">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed.</desc>
-  </programme>
-  <programme start="20260813013000 +0100" stop="20260813020000 +0100" channel="9043">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed.</desc>
+  <programme start="20260814103500 +0100" stop="20260814112000 +0100" channel="1101">
+    <title>Khotbat Al Khateeb</title>
+    <desc>A sheikh talks about the most important topics included in Friday sermons.</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030000 +0100" channel="9043">
     <title>To Be Announced</title>
@@ -13531,6 +13486,26 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Safahat Fi Al A'laqat</title>
     <desc>An Islamic scholar sheds light on various religious topics that concern Muslims.</desc>
   </programme>
+  <programme start="20260814094000 +0100" stop="20260814095000 +0100" channel="9043">
+    <title>Sayar Wa E'bar</title>
+    <desc>An Islamic scholar presents a religious talk that focuses on Sunnah stories.</desc>
+  </programme>
+  <programme start="20260814095000 +0100" stop="20260814101500 +0100" channel="9043">
+    <title>Salat Al Jumu'ah</title>
+    <desc>Muslims across the world gather to offer supplications to the Almighty Allah and perform the Friday prayer in different mosques.</desc>
+  </programme>
+  <programme start="20260814101500 +0100" stop="20260814103000 +0100" channel="9043">
+    <title>Ta'araf A'alayh</title>
+    <desc>An Islamic scholar interprets the meaning of the holy names of Allah.</desc>
+  </programme>
+  <programme start="20260814103000 +0100" stop="20260814104000 +0100" channel="9043">
+    <title>Noor Wa A'laam</title>
+    <desc>An Islamic scholar presents several topics to enhance spiritual and religious awareness.</desc>
+  </programme>
+  <programme start="20260814104000 +0100" stop="20260814112000 +0100" channel="9043">
+    <title>Masraa</title>
+    <desc>Sheikh Fahd Al Kandari talks about the Night Journey and the Ascension into Heavens.</desc>
+  </programme>
   <programme start="20260812233000 +0100" stop="20260813023000 +0100" channel="9393">
     <title>Donya Ya Donya</title>
     <desc>The hosts invite experts to discuss various topics and provide valuable advice.</desc>
@@ -13635,33 +13610,9 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Sa'at Mahabah</title>
     <desc>The host sheds light on different social, ethical and spiritual issues that concern people and discusses them from an Islamic perspective.</desc>
   </programme>
-  <programme start="20260813002700 +0100" stop="20260813005900 +0100" channel="9013">
-    <title>Al Darya</title>
-    <desc>The host sheds light on various water activities performed by individuals from the gulf.</desc>
-  </programme>
-  <programme start="20260813005900 +0100" stop="20260813011100 +0100" channel="9013">
-    <title>Mahattat</title>
-    <desc>Reporters examine many reports highlighting different aspects of life around the world.</desc>
-  </programme>
-  <programme start="20260813012000 +0100" stop="20260813014600 +0100" channel="9013">
-    <title>Tafaselona</title>
-    <sub-title>Episode 12</sub-title>
-    <desc>The narrator sheds light on what makes Bahrain an unforgettable tourist destination.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813014600 +0100" stop="20260813015000 +0100" channel="9013">
-    <title>Al Fajr Prayer</title>
-    <desc>The mosque issues a call to prayer in the morning to worship the Almighty.</desc>
-  </programme>
-  <programme start="20260813015000 +0100" stop="20260813020600 +0100" channel="9013">
-    <title>Athkar Al Sabah</title>
-    <desc>An Islamic scholar recites various morning supplications and prayers inspired by the Holy Quran and Hadiths to praise and glorify Allah.</desc>
-  </programme>
-  <programme start="20260813020600 +0100" stop="20260813020900 +0100" channel="9013">
-    <title>OµÙÙÙÙ ÙÙO§ÙO§</title>
-    <sub-title>Episode 3</sub-title>
-    <desc>The host highlights the fun-filled activities that people in Bahrain do during the summer.</desc>
-    <category>episode</category>
+  <programme start="20260814103000 +0100" stop="20260814113000 +0100" channel="9393">
+    <title>Salat Al Jumu'ah</title>
+    <desc>Muslims across the world gather to offer supplications to the Almighty Allah and perform the Friday prayer in different mosques.</desc>
   </programme>
   <programme start="20260813020900 +0100" stop="20260813030700 +0100" channel="9013">
     <title>Taht Al Hawa</title>
@@ -13971,20 +13922,17 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Anashid dinia</title>
     <desc>A group of artists performs a compilation of prayers and religious hymns.</desc>
   </programme>
-  <programme start="20260812233000 +0100" stop="20260813003600 +0100" channel="9995">
-    <title>Barrad Wa Seeniyya</title>
-    <desc>A light-hearted talk show that addresses issues Moroccan women face through open discussion.</desc>
-    <category>episode</category>
+  <programme start="20260814093500 +0100" stop="20260814103000 +0100" channel="9013">
+    <title>Salat Al Jumu'ah</title>
+    <desc>Muslims across the world gather to offer supplications to the Almighty Allah and perform the Friday prayer in different mosques.</desc>
   </programme>
-  <programme start="20260813003600 +0100" stop="20260813012600 +0100" channel="9995">
-    <title>Hayat</title>
-    <desc>Hayat, an ambitious woman, attempts to succeed in life as she parents her siblings, cares for her sick mother, and bails her drunkard father out of trouble.</desc>
-    <category>episode</category>
+  <programme start="20260814103000 +0100" stop="20260814103600 +0100" channel="9013">
+    <title>Anashid dinia</title>
+    <desc>A group of artists performs a compilation of prayers and religious hymns.</desc>
   </programme>
-  <programme start="20260813012600 +0100" stop="20260813021000 +0100" channel="9995">
-    <title>Shahadat Milad</title>
-    <desc>Yahiya investigates the circumstances that got Nozha locked up in a mental hospital. Al Wa'doudi marries Narjis.</desc>
-    <category>episode</category>
+  <programme start="20260814103600 +0100" stop="20260814112600 +0100" channel="9013">
+    <title>Waqfaat</title>
+    <desc>The show explores Islamic values, social ethics, and life guidance through a religious lens.</desc>
   </programme>
   <programme start="20260813021000 +0100" stop="20260813030500 +0100" channel="9995">
     <title>Riyah Al Hob Al Mawsimiyya</title>
@@ -14196,9 +14144,14 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>The lives of a fearless lawyer, Ceylin, and a renowned prosecutor, Ilgaz, are forever changed when they are forced to team up to solve a murder case.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010000 +0100" channel="9297">
-    <title>Alf Lila Wa Lila</title>
-    <desc>The captured monkey in the cell next to Qamaralzaman's communicates with her to help it escape while Najmuddin and his friends deflect an attack on the ship.</desc>
+  <programme start="20260814101500 +0100" stop="20260814111500 +0100" channel="9995">
+    <title>Iswed Fateh</title>
+    <desc>Mahdi tells Rania that he's worried that Najla and Ashraf might harm her. Later, Ashraf gives Rania the money she asked for and advises her to hand herself in.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814111500 +0100" stop="20260814114500 +0100" channel="9995">
+    <title>Shuhaiwa Tendance</title>
+    <desc>An entertaining educational programme offering quick and easy recipes.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813010000 +0100" stop="20260813030000 +0100" channel="9297">
@@ -14376,14 +14329,14 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Shahrazad and Shahrayar get into an argument while Ma'moun tries to stop Assef from accomplishing his goal.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813011600 +0100" channel="9245">
-    <title>Dar Ghareeb</title>
-    <desc>After getting rid of Nada, Nasser turns his attention to exploiting Nisrine. Zakariah files a police complaint against Ghareeb to get his money back.</desc>
+  <programme start="20260814101500 +0100" stop="20260814105000 +0100" channel="9297">
+    <title>Wa Azhar Al Hob</title>
+    <desc>While Kairi pleads with Lata and asks her to prove Yug's innocence, Yug surrenders himself to the police.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813011600 +0100" stop="20260813020000 +0100" channel="9245">
-    <title>Ahlam Al Sineen</title>
-    <desc>Sultan talks to Sajit about the new project and goes the extra mile to convince the villagers to embrace it. Karim's friends try to alleviate his pain.</desc>
+  <programme start="20260814105000 +0100" stop="20260814115000 +0100" channel="9297">
+    <title>Allahomma Inni Sayem</title>
+    <desc>Ali is a married man with huge aspirations who lives in a rundown neighbourhood. After losing his job, he wants to get rich quick, and becomes the biggest crook along the way, recreating a contemporary version of Ali Baba and the Forty Thieves.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813025000 +0100" channel="9245">
@@ -14591,6 +14544,21 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>An unwelcome patient shows up at Sameeh's clinic. Saber finds himself one step behind, as Mawt offers his help in exchange for the secret lying within the emerald.</desc>
     <category>episode</category>
   </programme>
+  <programme start="20260814094500 +0100" stop="20260814103000 +0100" channel="9245">
+    <title>El Maddah: Ostouret El Nehaya</title>
+    <desc>Saber joins forces with Hasan in the fight against Sameeh and his followers. Meanwhile, Mawt's pursuit of the emerald puts him through a difficult test.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814103000 +0100" stop="20260814110500 +0100" channel="9245">
+    <title>Al Motawahesh</title>
+    <desc>Years after being kidnapped as a child from his wealthy family and making his way through life on the streets, Yaman must recreate himself when he finally returns home.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814110500 +0100" stop="20260814114000 +0100" channel="9245">
+    <title>Al Motawahesh</title>
+    <desc>Years after being kidnapped as a child from his wealthy family and making his way through life on the streets, Yaman must recreate himself when he finally returns home.</desc>
+    <category>episode</category>
+  </programme>
   <programme start="20260812230000 +0100" stop="20260813050000 +0100" channel="411">
     <title>Tarab</title>
     <desc>An evening rendezvous with the sultans of tarab, featuring a selection of MBC programmes and Riyadh Season concerts.</desc>
@@ -14634,16 +14602,6 @@ spa... she speeds up everything in Junglewood!</desc>
   <programme start="20260814040200 +0100" stop="20260814070000 +0100" channel="411">
     <title>Rayeq</title>
     <desc>A curated playlist of elegant tracks, perfectly tuned to kickstart your day.</desc>
-    <category>movie</category>
-  </programme>
-  <programme start="20260813003000 +0100" stop="20260813010000 +0100" channel="9910">
-    <title>Al Hadath News</title>
-    <desc>Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.</desc>
-    <category>movie</category>
-  </programme>
-  <programme start="20260813010000 +0100" stop="20260813013000 +0100" channel="9910">
-    <title>Al Hadath News</title>
-    <desc>Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.</desc>
     <category>movie</category>
   </programme>
   <programme start="20260813013000 +0100" stop="20260813070000 +0100" channel="9910">
@@ -14781,17 +14739,10 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.</desc>
     <category>movie</category>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813010000 +0100" channel="9099">
-    <title>Talking Business</title>
-    <desc>The host presents an analysis of the latest business stories and global economic trends. Also included are talks with newsmakers in a bid to understand how the developments affect everyone.</desc>
-  </programme>
-  <programme start="20260813010000 +0100" stop="20260813013000 +0100" channel="9099">
-    <title>BBC News</title>
-    <desc>Take a look at varied facets of important international news from different fields.</desc>
-  </programme>
-  <programme start="20260813013000 +0100" stop="20260813020000 +0100" channel="9099">
-    <title>What Jobs Will AI Leave Us?</title>
-    <desc>A panel of experts explores the world of artificial intelligence and offer insights.</desc>
+  <programme start="20260814100000 +0100" stop="20260814120000 +0100" channel="9910">
+    <title>Studio Al Hadath</title>
+    <desc>A discussion of the day's main agenda including major stories on press and social media analysis with special guests covering each topic.</desc>
+    <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813023000 +0100" channel="9099">
     <title>Newsday</title>
@@ -15121,17 +15072,21 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>BBC News</title>
     <desc>Take a look at varied facets of important international news from different fields.</desc>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813010000 +0100" channel="2015">
-    <title>Minaassat Repeat</title>
-    <desc>The latest in trending stories on social media platforms.</desc>
+  <programme start="20260814095500 +0100" stop="20260814100000 +0100" channel="9099">
+    <title>The Travel Show</title>
+    <desc>The hosts explore various exotic destinations around the globe.</desc>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813013000 +0100" channel="2015">
-    <title>News</title>
-    <desc>News summary</desc>
+  <programme start="20260814100000 +0100" stop="20260814103000 +0100" channel="9099">
+    <title>BBC News</title>
+    <desc>Take a look at varied facets of important international news from different fields.</desc>
   </programme>
-  <programme start="20260813013000 +0100" stop="20260813020000 +0100" channel="2015">
-    <title>Studio 1 Repeat</title>
-    <desc>We follow the latest developments for two hours in several segments that are not limited to politics, but cover several fields... with specialized guests.</desc>
+  <programme start="20260814103000 +0100" stop="20260814110000 +0100" channel="9099">
+    <title>BBC News</title>
+    <desc>Take a look at varied facets of important international news from different fields.</desc>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814113000 +0100" channel="9099">
+    <title>BBC News</title>
+    <desc>Take a look at varied facets of important international news from different fields.</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813023000 +0100" channel="2015">
     <title>News</title>
@@ -15325,15 +15280,17 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>News</title>
     <desc>News summary</desc>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813010500 +0100" channel="9970">
-    <title>Al Arabiya News</title>
-    <desc>Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.</desc>
-    <category>movie</category>
+  <programme start="20260814100000 +0100" stop="20260814103000 +0100" channel="2015">
+    <title>Noon News Show</title>
+    <desc>All the day's news from Sky News Arabia's correspondents across the Arab world and around the globe.</desc>
   </programme>
-  <programme start="20260813010500 +0100" stop="20260813020000 +0100" channel="9970">
-    <title>Hour Of Discussion</title>
-    <desc>The roundtable discussion brings together field experts previously featured on Al Arabiya.</desc>
-    <category>episode</category>
+  <programme start="20260814103000 +0100" stop="20260814110000 +0100" channel="2015">
+    <title>Business News</title>
+    <desc>Business bulletin covering GCC and international markets, business stories and economic.</desc>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="2015">
+    <title>Noon News Show</title>
+    <desc>All the day's news from Sky News Arabia's correspondents across the Arab world and around the globe.</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813022600 +0100" channel="9970">
     <title>Al Arabiya News</title>
@@ -15590,17 +15547,25 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.</desc>
     <category>movie</category>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813010000 +0100" channel="7114">
-    <title>Documentary</title>
-    <desc>The filmmaker sheds light on significant personalities and events around the world.</desc>
+  <programme start="20260814100000 +0100" stop="20260814103000 +0100" channel="9970">
+    <title>Al Arabiya News</title>
+    <desc>Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.</desc>
+    <category>movie</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813013000 +0100" channel="7114">
-    <title>Miami AMERICA NOW LIVE</title>
-    <desc>Latest news update.</desc>
+  <programme start="20260814103000 +0100" stop="20260814110000 +0100" channel="9970">
+    <title>Sijal</title>
+    <desc>A political talk show critiquing specific ideas and key figures in the political intellectual arena in a direct and subtle satirical style.</desc>
+    <category>episode</category>
   </programme>
-  <programme start="20260813013000 +0100" stop="20260813020000 +0100" channel="7114">
-    <title>America First</title>
-    <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
+  <programme start="20260814110000 +0100" stop="20260814111500 +0100" channel="9970">
+    <title>Al Arabiya News</title>
+    <desc>Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.</desc>
+    <category>movie</category>
+  </programme>
+  <programme start="20260814111500 +0100" stop="20260814120000 +0100" channel="9970">
+    <title>The Weekend Show</title>
+    <desc>The Weekend Show</desc>
+    <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813023000 +0100" channel="7114">
     <title>Miami AMERICA NOW LIVE</title>
@@ -15858,29 +15823,17 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Lumumbas Africa</title>
     <desc>Featuring different aspects of life (ranging from news-related events and politics to heritage, culture, traditions, cuisine, wildlife and travel).</desc>
   </programme>
-  <programme start="20260813002900 +0100" stop="20260813005900 +0100" channel="9396">
-    <title>News. Debates</title>
-    <desc>Question More&quot; is a daily political program at RT Arabic broadcasting at 19:00 GMT. Two guests with different opinions discuss the major problems of the world news agenda.</desc>
+  <programme start="20260814100000 +0100" stop="20260814103000 +0100" channel="7114">
+    <title>Headline News</title>
+    <desc>Latest news update.</desc>
   </programme>
-  <programme start="20260813005900 +0100" stop="20260813010000 +0100" channel="9396">
-    <title>Announcements</title>
-    <desc>Rusiya Al Yawm</desc>
+  <programme start="20260814103000 +0100" stop="20260814110000 +0100" channel="7114">
+    <title>Documentary</title>
+    <desc>The filmmaker sheds light on significant personalities and events around the world.</desc>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813013000 +0100" channel="9396">
-    <title>In Details</title>
-    <desc>In Details&quot; is a daily political program at RT Arabic broadcasting at 22:00 GMT. The guests discuss the most important aspects of political and economic problems.</desc>
-  </programme>
-  <programme start="20260813013000 +0100" stop="20260813013200 +0100" channel="9396">
-    <title>Announcements</title>
-    <desc>Rusiya Al Yawm</desc>
-  </programme>
-  <programme start="20260813013200 +0100" stop="20260813015800 +0100" channel="9396">
-    <title>Journey through Memory</title>
-    <desc>Interviews with witnesses and participants of the most important world historical events, as well as with researchers who work with archives belonging to a certain historical stage.</desc>
-  </programme>
-  <programme start="20260813015800 +0100" stop="20260813020000 +0100" channel="9396">
-    <title>Announcements</title>
-    <desc>Rusiya Al Yawm</desc>
+  <programme start="20260814110000 +0100" stop="20260814113000 +0100" channel="7114">
+    <title>Headline News</title>
+    <desc>Latest news update.</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813022600 +0100" channel="9396">
     <title>Documentary</title>
@@ -16346,21 +16299,33 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Why Russia?</title>
     <desc>A weekly program that reveals different people�s lives in Russia. We see Russia through their perspective in the search for the answer of �why russia?�</desc>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813013000 +0100" channel="9961">
-    <title>Fi Al Tes'een</title>
-    <desc>The host invites experts to discuss the latest and the biggest football competitions.</desc>
+  <programme start="20260814094200 +0100" stop="20260814094400 +0100" channel="9396">
+    <title>Announcements</title>
+    <desc>Rusiya Al Yawm</desc>
   </programme>
-  <programme start="20260813013000 +0100" stop="20260813013500 +0100" channel="9961">
-    <title>Monawaat</title>
-    <desc>Magazine programme.</desc>
+  <programme start="20260814094400 +0100" stop="20260814095800 +0100" channel="9396">
+    <title>Big Data</title>
+    <desc>A weekly program presented by Ashraf Shehab that focuses on the latest developments in the digital world and information technology</desc>
   </programme>
-  <programme start="20260813013500 +0100" stop="20260813020000 +0100" channel="9961">
-    <title>FDL</title>
-    <desc>Professional Saudi football clubs compete against each other during the First Division League to emerge victorious and win the coveted title.</desc>
+  <programme start="20260814095800 +0100" stop="20260814100000 +0100" channel="9396">
+    <title>Announcements</title>
+    <desc>Rusiya Al Yawm</desc>
   </programme>
-  <programme start="20260813020000 +0100" stop="20260813020500 +0100" channel="9961">
-    <title>Monawaat</title>
-    <desc>Magazine programme.</desc>
+  <programme start="20260814100000 +0100" stop="20260814102900 +0100" channel="9396">
+    <title>Latest News</title>
+    <desc>Latest news bulletins covering the most important and urgent events happening around the glob</desc>
+  </programme>
+  <programme start="20260814102900 +0100" stop="20260814105900 +0100" channel="9396">
+    <title>News. Debates</title>
+    <desc>Question More&quot; is a daily political program at RT Arabic broadcasting at 19:00 GMT. Two guests with different opinions discuss the major problems of the world news agenda.</desc>
+  </programme>
+  <programme start="20260814105900 +0100" stop="20260814110000 +0100" channel="9396">
+    <title>Announcements</title>
+    <desc>Rusiya Al Yawm</desc>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814113200 +0100" channel="9396">
+    <title>Latest News</title>
+    <desc>Latest news bulletins covering the most important and urgent events happening around the glob</desc>
   </programme>
   <programme start="20260813020500 +0100" stop="20260813032500 +0100" channel="9961">
     <title>Swimming</title>
@@ -16590,11 +16555,9 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Korat Al Qadam</title>
     <desc>Professional football teams compete in a football tournament to win the coveted title.</desc>
   </programme>
-  <programme start="20260813011200 +0100" stop="20260813014300 +0100" channel="9069">
-    <title>Program: Al Mudir Alfani 2026-2027</title>
-    <sub-title>Episode 13</sub-title>
-    <desc>Program: Al Mudir Alfani 2026-2027</desc>
-    <category>episode</category>
+  <programme start="20260814103000 +0100" stop="20260814113000 +0100" channel="9961">
+    <title>Swimming</title>
+    <desc>Professional swimmers compete against each other in prestigious competitions.</desc>
   </programme>
   <programme start="20260813014300 +0100" stop="20260813033600 +0100" channel="9069">
     <title>International Friendly match 2026</title>
@@ -16708,31 +16671,6 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Program: Full Time 2026-2027</title>
     <sub-title>Episode 1</sub-title>
     <desc>Program: Full Time 2026-2027</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813003000 +0100" stop="20260813010000 +0100" channel="9971">
-    <title>100% Wolf: The Book Of Hath</title>
-    <desc>At a time when the Night Patrol is no longer active, it's up to Freddy and his ex-Howlington buddies to save the city from a powerful sorceress.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813010000 +0100" stop="20260813011500 +0100" channel="9971">
-    <title>Virtual Guardians</title>
-    <desc>At a time where humans are enjoying the virtual Gaia world, a fatal system error turns the AI evil with its sights set on the real world-and only five heroes and one clever puppy must defend mankind.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813011500 +0100" stop="20260813013000 +0100" channel="9971">
-    <title>Virtual Guardians</title>
-    <desc>At a time where humans are enjoying the virtual Gaia world, a fatal system error turns the AI evil with its sights set on the real world-and only five heroes and one clever puppy must defend mankind.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813013000 +0100" stop="20260813014400 +0100" channel="9971">
-    <title>Bubble's Hotel</title>
-    <desc>Welcome to Bubble's Hotel - a magical, bubbly place where dreams turn into adventures! With a wave of her wand, the cheerful hotelier is always ready to save the day!</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813014400 +0100" stop="20260813020000 +0100" channel="9971">
-    <title>Bubble's Hotel</title>
-    <desc>Welcome to Bubble's Hotel - a magical, bubbly place where dreams turn into adventures! With a wave of her wand, the cheerful hotelier is always ready to save the day!</desc>
     <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813023100 +0100" channel="9971">
@@ -17385,27 +17323,50 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Roma's room is full of fun toys like Bagel the alien, Ko-Ko the rooster, and General De Krol. They live loudly when he's away, yet always unite to help him in his troubles.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813001500 +0100" stop="20260813003500 +0100" channel="9987">
-    <title>What's New Scooby-Doo?</title>
-    <sub-title>Go West Young Scoob!</sub-title>
-    <desc>The gang visit a Western fantasy resort run by robots.</desc>
+  <programme start="20260814093500 +0100" stop="20260814094500 +0100" channel="9971">
+    <title>Champies</title>
+    <desc>Roma's room is full of fun toys like Bagel the alien, Ko-Ko the rooster, and General De Krol. They live loudly when he's away, yet always unite to help him in his troubles.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813003500 +0100" stop="20260813010000 +0100" channel="9987">
-    <title>Be Cool, Scooby-Doo!</title>
-    <sub-title>Grand Scam</sub-title>
-    <desc>Shaggy takes the gang to the stadium of his youth only to find out it's about to be shut down.</desc>
+  <programme start="20260814094500 +0100" stop="20260814095500 +0100" channel="9971">
+    <title>Champies</title>
+    <desc>Roma's room is full of fun toys like Bagel the alien, Ko-Ko the rooster, and General De Krol. They live loudly when he's away, yet always unite to help him in his troubles.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813012000 +0100" channel="9987">
-    <title>Scooby-Doo and Guess Who?</title>
-    <sub-title>The Fastest Fast Food Fiend!</sub-title>
-    <desc>Scooby and Shaggy enter a fast-food eating competition, facing Jim Gaffigan.</desc>
+  <programme start="20260814095500 +0100" stop="20260814100500 +0100" channel="9971">
+    <title>Champies</title>
+    <desc>Roma's room is full of fun toys like Bagel the alien, Ko-Ko the rooster, and General De Krol. They live loudly when he's away, yet always unite to help him in his troubles.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813012000 +0100" stop="20260813020500 +0100" channel="9987">
-    <title>Sideline Dad! / Brainlord / Lights Out! / Che</title>
-    <desc>Blossom, Buttercup and Bubbles save Townsville from evil while trying to live a normal childhood.</desc>
+  <programme start="20260814100500 +0100" stop="20260814101500 +0100" channel="9971">
+    <title>Champies</title>
+    <desc>Roma's room is full of fun toys like Bagel the alien, Ko-Ko the rooster, and General De Krol. They live loudly when he's away, yet always unite to help him in his troubles.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814101500 +0100" stop="20260814102500 +0100" channel="9971">
+    <title>Champies</title>
+    <desc>Roma's room is full of fun toys like Bagel the alien, Ko-Ko the rooster, and General De Krol. They live loudly when he's away, yet always unite to help him in his troubles.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814102500 +0100" stop="20260814103500 +0100" channel="9971">
+    <title>Champies</title>
+    <desc>Roma's room is full of fun toys like Bagel the alien, Ko-Ko the rooster, and General De Krol. They live loudly when he's away, yet always unite to help him in his troubles.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814103500 +0100" stop="20260814104500 +0100" channel="9971">
+    <title>Champies</title>
+    <desc>Roma's room is full of fun toys like Bagel the alien, Ko-Ko the rooster, and General De Krol. They live loudly when he's away, yet always unite to help him in his troubles.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814104500 +0100" stop="20260814110000 +0100" channel="9971">
+    <title>Champies</title>
+    <desc>Roma's room is full of fun toys like Bagel the alien, Ko-Ko the rooster, and General De Krol. They live loudly when he's away, yet always unite to help him in his troubles.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814113000 +0100" channel="9971">
+    <title>The Loud House</title>
+    <desc>Ever wonder what it's like to grow up in a big family? Eleven-year-old Lincoln Loud gives viewers an inside look at how to survive the chaos of a huge household, especially as the only boy with ten sisters!</desc>
+    <category>episode</category>
   </programme>
   <programme start="20260813020500 +0100" stop="20260813030000 +0100" channel="9987">
     <title>Ben 10</title>
@@ -17649,15 +17610,23 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Ice Cold; Cake!</title>
     <desc>Cyborg and Beast Boy disguise themselves as ice villains. Cyborg's birthday wish goes wrong.</desc>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010000 +0100" channel="9963">
-    <title>Al Quran Al Kareem HD</title>
-    <desc>Al Quran Al Kareem HD</desc>
-    <category>movie</category>
+  <programme start="20260814095000 +0100" stop="20260814101000 +0100" channel="9987">
+    <title>Jade Armor</title>
+    <sub-title>The Talk</sub-title>
+    <desc>The Crimson Lord uses a Shard-embedded megaphone to steal…</desc>
+    <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="9963">
-    <title>Al Quran Al Kareem HD</title>
-    <desc>Al Quran Al Kareem HD</desc>
-    <category>movie</category>
+  <programme start="20260814101000 +0100" stop="20260814103500 +0100" channel="9987">
+    <title>Happy Bouncy Fun Town; Back to Our Regular Ti</title>
+    <desc>The Bears land in the cheeriest place of all time. The Bears find themselves trapped.</desc>
+  </programme>
+  <programme start="20260814103500 +0100" stop="20260814110000 +0100" channel="9987">
+    <title>The Prince and the Turnip Tricksters; The Pri</title>
+    <desc>Prince Ivandoe vows to capture the turnip thief. Ivandoe and Bert take Swanstress under their wing.</desc>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="9987">
+    <title>The Vegging / The Father / The Neighbor / The</title>
+    <desc>Gumball and his friend Darwin embark on insanely funny, everyday adventures.</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030000 +0100" channel="9963">
     <title>Al Quran Al Kareem HD</title>
@@ -17804,23 +17773,10 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Al Quran Al Kareem HD</desc>
     <category>movie</category>
   </programme>
-  <programme start="20260813002600 +0100" stop="20260813005900 +0100" channel="206">
-    <title>Antiks</title>
-    <sub-title>A Big Buffet of Crazy Chaos!</sub-title>
-    <desc>Join the 2 sibling ants Joey &amp; Boo who have an appetite for food and minuscule levels of mass-destruction.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813005900 +0100" stop="20260813012600 +0100" channel="206">
-    <title>Oddbods</title>
-    <sub-title>Odd Jobs, A Brain Game &amp; A Toothache!</sub-title>
-    <desc>Follow the wacky of adventures of the Oddbods in Oddsville!</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260813012600 +0100" stop="20260813020000 +0100" channel="206">
-    <title>Oddbods</title>
-    <sub-title>The Spooky Ghost Adventure</sub-title>
-    <desc>Hunt for ghosts this Adventurous August with an invisibility device and a mysterious ancient artifact!</desc>
-    <category>episode</category>
+  <programme start="20260814100000 +0100" stop="20260814120000 +0100" channel="9963">
+    <title>Al Quran Al Kareem HD</title>
+    <desc>Al Quran Al Kareem HD</desc>
+    <category>movie</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813023000 +0100" channel="206">
     <title>Morphle Classics</title>
@@ -18236,13 +18192,23 @@ spa... she speeds up everything in Junglewood!</desc>
     <desc>Meekah plays with diggers &amp; trains! She learns ASL signs, drives a tractor &amp; builds a huge bridge!</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010000 +0100" channel="6610">
-    <title>EClutch Live 1</title>
-    <desc>EClutch Live 1 is the destination for raw, competitive esports action. As the flagship live tournament channel of the eCLUTCH platform, it broadcasts premier esports events annually, such as the Street Fighter Pro Tour and BLAST's Rainbow Six Siege competitions.</desc>
+  <programme start="20260814095000 +0100" stop="20260814102000 +0100" channel="206">
+    <title>Meekah</title>
+    <sub-title>Meekah's Rainbow Routine Adventure</sub-title>
+    <desc>Hunt for a rainbow this Adventurous August and learn Meekah's amazing routines for a fun-filled day!</desc>
+    <category>episode</category>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="6610">
-    <title>EClutch Live 1</title>
-    <desc>EClutch Live 1 is the destination for raw, competitive esports action. As the flagship live tournament channel of the eCLUTCH platform, it broadcasts premier esports events annually, such as the Street Fighter Pro Tour and BLAST's Rainbow Six Siege competitions.</desc>
+  <programme start="20260814102000 +0100" stop="20260814105000 +0100" channel="206">
+    <title>Blippi</title>
+    <sub-title>Blippi's Innovation Adventure</sub-title>
+    <desc>Invent your way through Adventurous August with a quest into the science of imagination and innovation!</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260814105000 +0100" stop="20260814111700 +0100" channel="206">
+    <title>Blippi</title>
+    <sub-title>Blippi's Building Adventure</sub-title>
+    <desc>Build your way through Adventurous August and explore a world of amazing colors at the playground!</desc>
+    <category>episode</category>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030000 +0100" channel="6610">
     <title>EClutch Live 1</title>
@@ -18372,13 +18338,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>EClutch Live 1</title>
     <desc>EClutch Live 1 is the destination for raw, competitive esports action. As the flagship live tournament channel of the eCLUTCH platform, it broadcasts premier esports events annually, such as the Street Fighter Pro Tour and BLAST's Rainbow Six Siege competitions.</desc>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010000 +0100" channel="6612">
-    <title>EClutch Live 2</title>
-    <desc>EClutch Live 2  is the second 24/7 esports powerhouse in the EClutch lineup, offering over 600 hours of live action focused on globally beloved titles like Fortnite and Rocket League.</desc>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="6610">
+    <title>EClutch Live 1</title>
+    <desc>EClutch Live 1 is the destination for raw, competitive esports action. As the flagship live tournament channel of the eCLUTCH platform, it broadcasts premier esports events annually, such as the Street Fighter Pro Tour and BLAST's Rainbow Six Siege competitions.</desc>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="6612">
-    <title>EClutch Live 2</title>
-    <desc>EClutch Live 2  is the second 24/7 esports powerhouse in the EClutch lineup, offering over 600 hours of live action focused on globally beloved titles like Fortnite and Rocket League.</desc>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="6610">
+    <title>EClutch Live 1</title>
+    <desc>EClutch Live 1 is the destination for raw, competitive esports action. As the flagship live tournament channel of the eCLUTCH platform, it broadcasts premier esports events annually, such as the Street Fighter Pro Tour and BLAST's Rainbow Six Siege competitions.</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030000 +0100" channel="6612">
     <title>EClutch Live 2</title>
@@ -18508,21 +18474,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>EClutch Live 2</title>
     <desc>EClutch Live 2  is the second 24/7 esports powerhouse in the EClutch lineup, offering over 600 hours of live action focused on globally beloved titles like Fortnite and Rocket League.</desc>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813012000 +0100" channel="6611">
-    <title>A Day with Alix Collombon</title>
-    <desc>A Day with Alix Collombon, the French number one player.</desc>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="6612">
+    <title>EClutch Live 2</title>
+    <desc>EClutch Live 2  is the second 24/7 esports powerhouse in the EClutch lineup, offering over 600 hours of live action focused on globally beloved titles like Fortnite and Rocket League.</desc>
   </programme>
-  <programme start="20260813012000 +0100" stop="20260813012900 +0100" channel="6611">
-    <title>Smash - Mauri Andrini</title>
-    <desc>Mauri Andrini, coach of the world&amp;apos;s best players, gives you the best advice to improve your padel game.</desc>
-  </programme>
-  <programme start="20260813012900 +0100" stop="20260813013800 +0100" channel="6611">
-    <title>Arturo Coello kick smash - Mauri Andrini</title>
-    <desc>Mauri Andrini, coach of the world&amp;apos;s best players, gives you the best advice to improve your padel game.</desc>
-  </programme>
-  <programme start="20260813013800 +0100" stop="20260813021500 +0100" channel="6611">
-    <title>Dani Hoyo - A day in the life of a Padel coach</title>
-    <desc>Dani Hoyo is from Spain, and have been a padel coach for more than 7 years. He played in the first category in Spain, and have been coaching in Spain, Italy, Saudi Arabia, and Singapore.</desc>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="6612">
+    <title>EClutch Live 2</title>
+    <desc>EClutch Live 2  is the second 24/7 esports powerhouse in the EClutch lineup, offering over 600 hours of live action focused on globally beloved titles like Fortnite and Rocket League.</desc>
   </programme>
   <programme start="20260813021500 +0100" stop="20260813024900 +0100" channel="6611">
     <title>Dani Hoyo - Padel in Pakistan</title>
@@ -18732,13 +18690,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Dani Hoyo - Padel World Summit in Barcelona</title>
     <desc>Dani Hoyo is from Spain, and have been a padel coach for more than 7 years. He played in the first category in Spain, and have been coaching in Spain, Italy, Saudi Arabia, and Singapore.</desc>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813004500 +0100" channel="6604">
-    <title>Icons</title>
-    <desc>Icons of e-sports on GINX.</desc>
+  <programme start="20260814094100 +0100" stop="20260814103400 +0100" channel="6611">
+    <title>Dani Hoyo - I Went to South Korea to teach</title>
+    <desc>Dani Hoyo is from Spain, and have been a padel coach for more than 7 years. He played in the first category in Spain, and have been coaching in Spain, Italy, Saudi Arabia, and Singapore.</desc>
   </programme>
-  <programme start="20260813004500 +0100" stop="20260813010000 +0100" channel="6604">
-    <title>Icons</title>
-    <desc>Icons of e-sports on GINX.</desc>
+  <programme start="20260814103400 +0100" stop="20260814113100 +0100" channel="6611">
+    <title>Dani Hoyo - Padel in Japan</title>
+    <desc>Dani Hoyo is from Spain, and have been a padel coach for more than 7 years. He played in the first category in Spain, and have been coaching in Spain, Italy, Saudi Arabia, and Singapore.</desc>
   </programme>
   <programme start="20260813010000 +0100" stop="20260813023000 +0100" channel="6604">
     <title>Shut Up &amp; Play</title>
@@ -18900,6 +18858,10 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>The First Hour</title>
     <desc>Join hosts as they experience and review the opening hour of the latest video game releases.</desc>
   </programme>
+  <programme start="20260814100000 +0100" stop="20260814113000 +0100" channel="6604">
+    <title>Shut Up &amp; Play</title>
+    <desc>Pure uninterrupted gameplay featuring exciting titles, epic moments, and immersive gaming action.</desc>
+  </programme>
   <programme start="20260812223500 +0100" stop="20260813041300 +0100" channel="6613">
     <title>RLCS Arabic 11</title>
     <desc>Day 2 of BLAST Esports RocketLeague Championship Series Birmingham #2 Open Playoffs</desc>
@@ -18931,14 +18893,6 @@ spa... she speeds up everything in Junglewood!</desc>
   <programme start="20260814081800 +0100" stop="20260814141800 +0100" channel="6613">
     <title>RLCS Arabic 18</title>
     <desc>Day 2 of BLAST Esports&amp;apos; RocketLeague Championship Series Raleigh Major Open #4 - MENA</desc>
-  </programme>
-  <programme start="20260812235000 +0100" stop="20260813005000 +0100" channel="6606">
-    <title>Stream Nation - Call Of Duty</title>
-    <desc>Join Gametoon for true gaming fiesta with some of the most popular streamers in the world. Stream Nation series offers a chance to learn more about such titles as The Resident Evil 2, Spider-Man, Fortnite or Unravel 2.</desc>
-  </programme>
-  <programme start="20260813005000 +0100" stop="20260813015000 +0100" channel="6606">
-    <title>Stream Nation - Call Of Duty</title>
-    <desc>Join Gametoon for true gaming fiesta with some of the most popular streamers in the world. Stream Nation series offers a chance to learn more about such titles as The Resident Evil 2, Spider-Man, Fortnite or Unravel 2.</desc>
   </programme>
   <programme start="20260813015000 +0100" stop="20260813025500 +0100" channel="6606">
     <title>Stream Nation - The Last Of Us 2</title>
@@ -19108,17 +19062,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Stream Nation - Journey to the Savage Planet</title>
     <desc>Join Gametoon for true gaming fiesta with some of the most popular streamers in the world. Stream Nation series offers a chance to learn more about such titles as The Resident Evil 2, Spider-Man, Fortnite or Unravel 2.</desc>
   </programme>
-  <programme start="20260812171600 +0100" stop="20260813003900 +0100" channel="6609">
-    <title>Esports World Cup</title>
-    <desc>EWC EA SPORTS FC 24 - Day 4 - Playoffs</desc>
+  <programme start="20260814095500 +0100" stop="20260814105500 +0100" channel="6606">
+    <title>Stream Nation - Journey to the Savage Planet</title>
+    <desc>Join Gametoon for true gaming fiesta with some of the most popular streamers in the world. Stream Nation series offers a chance to learn more about such titles as The Resident Evil 2, Spider-Man, Fortnite or Unravel 2.</desc>
   </programme>
-  <programme start="20260813003900 +0100" stop="20260813011600 +0100" channel="6609">
-    <title>ESL Counter-Strike Highlights</title>
-    <desc>GROUP FINAL! - FaZe vs Spirit - HIGHLIGHTS - IEM Katowice 2024 l CS2</desc>
-  </programme>
-  <programme start="20260813011600 +0100" stop="20260813015500 +0100" channel="6609">
-    <title>ESL Dota 2</title>
-    <desc>ESL One Berlin: Unmuted</desc>
+  <programme start="20260814105500 +0100" stop="20260814112000 +0100" channel="6606">
+    <title>Autospeed 2020</title>
+    <desc>Gametoon is a dynamic gaming and esports entertainment channel that delivers a mix of esports tournament coverage, gaming news, and lifestyle content. Its programming includes premier events from titles such as Dota 2, League of Legends and Hearthstone.</desc>
   </programme>
   <programme start="20260813015500 +0100" stop="20260814010000 +0100" channel="6609">
     <title>ESL Counter-Strike</title>
@@ -19160,13 +19110,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>ESports 24</title>
     <desc>Esports 24 offers nonstop, 24/7 coverage of the global esports scene. Its programming features live tournament broadcasts, match replays, and continuous news updates across top-tier titles ensuring fans never miss critical moments.</desc>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010000 +0100" channel="6607">
-    <title>EClutch Access</title>
-    <desc>EClutch Access is a FAST esports channel designed to supercharge fan engagement with over 1,300 hours of curated content. It streams live events, next-day replays, and exclusive originals across top-tier games like Rainbow Six: Siege, Street Fighter and Rocket League.</desc>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="6609">
+    <title>ESports 24</title>
+    <desc>Esports 24 offers nonstop, 24/7 coverage of the global esports scene. Its programming features live tournament broadcasts, match replays, and continuous news updates across top-tier titles ensuring fans never miss critical moments.</desc>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="6607">
-    <title>EClutch Access</title>
-    <desc>EClutch Access is a FAST esports channel designed to supercharge fan engagement with over 1,300 hours of curated content. It streams live events, next-day replays, and exclusive originals across top-tier games like Rainbow Six: Siege, Street Fighter and Rocket League.</desc>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="6609">
+    <title>ESports 24</title>
+    <desc>Esports 24 offers nonstop, 24/7 coverage of the global esports scene. Its programming features live tournament broadcasts, match replays, and continuous news updates across top-tier titles ensuring fans never miss critical moments.</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030000 +0100" channel="6607">
     <title>EClutch Access</title>
@@ -19296,9 +19246,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>EClutch Access</title>
     <desc>EClutch Access is a FAST esports channel designed to supercharge fan engagement with over 1,300 hours of curated content. It streams live events, next-day replays, and exclusive originals across top-tier games like Rainbow Six: Siege, Street Fighter and Rocket League.</desc>
   </programme>
-  <programme start="20260812200000 +0100" stop="20260813020000 +0100" channel="2501">
-    <title>FIFA Arab Cup Qualification</title>
-    <desc>Fourteen low-ranked Arab teams will compete in the Arab Football Cup qualifications, with seven matches played in a knockout format.</desc>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="6607">
+    <title>EClutch Access</title>
+    <desc>EClutch Access is a FAST esports channel designed to supercharge fan engagement with over 1,300 hours of curated content. It streams live events, next-day replays, and exclusive originals across top-tier games like Rainbow Six: Siege, Street Fighter and Rocket League.</desc>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="6607">
+    <title>EClutch Access</title>
+    <desc>EClutch Access is a FAST esports channel designed to supercharge fan engagement with over 1,300 hours of curated content. It streams live events, next-day replays, and exclusive originals across top-tier games like Rainbow Six: Siege, Street Fighter and Rocket League.</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813023000 +0100" channel="2501">
     <title>The Inside Line</title>
@@ -19404,53 +19358,17 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>FIFA Arab Cup Qualification</title>
     <desc>Fourteen low-ranked Arab teams will compete in the Arab Football Cup qualifications, with seven matches played in a knockout format.</desc>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813010000 +0100" channel="3800">
-    <title>Your Economy</title>
-    <desc>Highlighting the most important and latest local and global economic news, discussing how it impacts the world, as well as the impact on the economy of events and policy changes in various countries.</desc>
-  </programme>
-  <programme start="20260813010000 +0100" stop="20260813013000 +0100" channel="3800">
+  <programme start="20260814100000 +0100" stop="20260814103000 +0100" channel="2501">
     <title>News</title>
     <desc>News summary</desc>
   </programme>
-  <programme start="20260813013000 +0100" stop="20260813020000 +0100" channel="3800">
-    <title>Connection</title>
-    <desc>A daily segment showcases the most engaging news on social media, presenting a mix of human interest and interactive stories, all told in a dynamic and captivating style.</desc>
+  <programme start="20260814103000 +0100" stop="20260814110000 +0100" channel="2501">
+    <title>Newspaper</title>
+    <desc>Highlighting the latest sports updates in newspapers at both national and international levels.</desc>
   </programme>
-  <programme start="20260813020000 +0100" stop="20260813023000 +0100" channel="3800">
-    <title>News</title>
-    <desc>News summary</desc>
-  </programme>
-  <programme start="20260813023000 +0100" stop="20260813030000 +0100" channel="3800">
-    <title>Your Economy</title>
-    <desc>Highlighting the most important and latest local and global economic news, discussing how it impacts the world, as well as the impact on the economy of events and policy changes in various countries.</desc>
-  </programme>
-  <programme start="20260813030000 +0100" stop="20260813040000 +0100" channel="3800">
-    <title>News</title>
-    <desc>News summary</desc>
-  </programme>
-  <programme start="20260813040000 +0100" stop="20260813050000 +0100" channel="3800">
-    <title>News</title>
-    <desc>News summary</desc>
-  </programme>
-  <programme start="20260813050000 +0100" stop="20260813060000 +0100" channel="3800">
-    <title>News</title>
-    <desc>News summary</desc>
-  </programme>
-  <programme start="20260813060000 +0100" stop="20260813070000 +0100" channel="3800">
-    <title>News</title>
-    <desc>News summary</desc>
-  </programme>
-  <programme start="20260813070000 +0100" stop="20260813080000 +0100" channel="3800">
-    <title>Morning Show</title>
-    <desc>Join the Sky News Arabia team for news, sport and business chat on the biggest stories of the day.</desc>
-  </programme>
-  <programme start="20260813080000 +0100" stop="20260813090000 +0100" channel="3800">
-    <title>News</title>
-    <desc>News summary</desc>
-  </programme>
-  <programme start="20260813090000 +0100" stop="20260813100000 +0100" channel="3800">
-    <title>News</title>
-    <desc>News summary</desc>
+  <programme start="20260814110000 +0100" stop="20260814113000 +0100" channel="2501">
+    <title>Communication</title>
+    <desc>Tackling the latest and most important sporting events through monitoring the interaction of people through different social media platforms and giving them the opportunity to participate through Skype.</desc>
   </programme>
   <programme start="20260813100000 +0100" stop="20260813110000 +0100" channel="3800">
     <title>News</title>
@@ -19576,14 +19494,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>News</title>
     <desc>News summary</desc>
   </programme>
-  <programme start="20260813000000 +0100" stop="20260813010000 +0100" channel="9844">
-    <title>Readings</title>
-    <desc>Najwa Barakat interviews writers and poets who talk about their artistic work and process.</desc>
+  <programme start="20260814100000 +0100" stop="20260814110000 +0100" channel="3800">
+    <title>News</title>
+    <desc>News summary</desc>
   </programme>
-  <programme start="20260813010000 +0100" stop="20260813020000 +0100" channel="9844">
-    <title>The Overlong Night</title>
-    <desc>A series of quarrels begin between Rahim and his brothers over the inheritance when he insists on marrying a beautiful singer, which his family considers odd to their customs in Upper Egypt.</desc>
-    <category>movie</category>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="3800">
+    <title>News</title>
+    <desc>News summary</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813030000 +0100" channel="9844">
     <title>Art of the Islamic Civilization</title>
@@ -19749,13 +19666,17 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Joe Show</title>
     <desc>A sarcastic political voice targeting the negative social and political values that are adopted by the Arab community.</desc>
   </programme>
-  <programme start="20260812234500 +0100" stop="20260813004000 +0100" channel="305">
-    <title>European Le Mans Series 2026</title>
-    <desc>Watch spectacular supercars and motorcycles, off-road action, unique vintage cars as well as future trends in automotive technology.</desc>
+  <programme start="20260814100000 +0100" stop="20260814103000 +0100" channel="9844">
+    <title>Tersana</title>
+    <desc>Tracing the development of weapons and military hardware from ancient times to the modern era, showing how engineering advancements and defense technology directly altered global power balances.</desc>
   </programme>
-  <programme start="20260813004000 +0100" stop="20260813013500 +0100" channel="305">
-    <title>ADAC Zurich 24-Hour Race</title>
-    <desc>Watch spectacular supercars and motorcycles, off-road action, unique vintage cars as well as future trends in automotive technology.</desc>
+  <programme start="20260814103000 +0100" stop="20260814110000 +0100" channel="9844">
+    <title>Palestinian Musical Heritage</title>
+    <desc>Singer Dalal Abu Amna invites the audience on an adventurous quest with a group of women to learn about the heritage and origins of Palestinian singing.</desc>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814120000 +0100" channel="9844">
+    <title>Artistic Traits</title>
+    <desc>Presenting cultural and artistic segments, while learning about Arab and international artists and highlighting their most important works that have impacted society.</desc>
   </programme>
   <programme start="20260813013500 +0100" stop="20260813022000 +0100" channel="305">
     <title>GT World Challenge Australia 2026</title>
@@ -19973,25 +19894,13 @@ spa... she speeds up everything in Junglewood!</desc>
     <title>Car History</title>
     <desc>The Volkswagen Beetle is not just a car. For many people its THE car. Built over 22 million times, it has conquered every continent of the world. Being 60 years old, it tells us more about our century than many history books.</desc>
   </programme>
-  <programme start="20260813003000 +0100" stop="20260813004500 +0100" channel="4512">
-    <title>The Race to Build Data Centers in Space</title>
-    <desc>Data centers in space may sound like science fiction, but as the SpaceX IPO augurs a space boom, tech giants and startups are betting orbital artificial intelligence is the next frontier.</desc>
+  <programme start="20260814095000 +0100" stop="20260814110000 +0100" channel="305">
+    <title>Classic Races</title>
+    <desc>Difficult conditions over 5.000 kilometres. Extreme heat and treacherous water hazards, require everything from the amateur rally drivers.</desc>
   </programme>
-  <programme start="20260813004500 +0100" stop="20260813010000 +0100" channel="4512">
-    <title>Why Young Investors Are Taking On Big Risks</title>
-    <desc>With homeownership out of reach, AI cutting job prospects and index funds feeling too slow, many young investors are turning to meme stocks, options and crypto in the hope of securing their future.</desc>
-  </programme>
-  <programme start="20260813010000 +0100" stop="20260813011500 +0100" channel="4512">
-    <title>Why Space Companies Are Betting Big on Texas</title>
-    <desc>Already home to SpaceX, Blue Origin and recent moon-landers Firefly Aerospace and Intuitive Machines, Texas is quickly becoming the center of the commercial space universe.</desc>
-  </programme>
-  <programme start="20260813011500 +0100" stop="20260813012000 +0100" channel="4512">
-    <title>The $25 Million T. Rex Auction That Fell Apart</title>
-    <desc>Dinosaur fossils have become a high-end collectibles market, with auction prices reaching tens of millions of dollars. The attempted sale of Shen, a rare T. Rex planned for auction at Christie's.</desc>
-  </programme>
-  <programme start="20260813012000 +0100" stop="20260813020000 +0100" channel="4512">
-    <title>23andMe Institute CEO Anne Wojcicki</title>
-    <desc>Emily Chang meets Anne Wojcicki for a discussion of the personal genetics company.</desc>
+  <programme start="20260814110000 +0100" stop="20260814112500 +0100" channel="305">
+    <title>Classic Ride</title>
+    <desc>The 1938 Porsche Typ 64 racing car is a holy grail for many Porsche fans, because its the first ever car that is named after Professor Ferdinand Porsche.</desc>
   </programme>
   <programme start="20260813020000 +0100" stop="20260813023000 +0100" channel="4512">
     <title>Anthropic Co-Founders Dario and Daniela Amode</title>
@@ -20180,5 +20089,17 @@ spa... she speeds up everything in Junglewood!</desc>
   <programme start="20260814093000 +0100" stop="20260814100000 +0100" channel="4512">
     <title>The Race to Fuel a Nuclear Energy Comeback</title>
     <desc>Nuclear power is attempting a comeback, but producing the necessary fuel is complex. From mining to enrichment, can new technologies and supply chains scale to power the next generation of reactors?</desc>
+  </programme>
+  <programme start="20260814100000 +0100" stop="20260814103000 +0100" channel="4512">
+    <title>The Business of Adapting to Flood Risk</title>
+    <desc>Scientists are developing more powerful magnets to enable clean energy sources like fusion.</desc>
+  </programme>
+  <programme start="20260814103000 +0100" stop="20260814110000 +0100" channel="4512">
+    <title>Transforming the Electrical Grid to Power AI</title>
+    <desc>AI's rapid growth is pushing global energy demand skyward, forcing electrical grids to expand and modernize. Now, companies from China to Nigeria are investing in new tech to power the future.</desc>
+  </programme>
+  <programme start="20260814110000 +0100" stop="20260814113000 +0100" channel="4512">
+    <title>The Rise of America's ICE Towns</title>
+    <desc>Small towns are at the center of President Trump's mass deportation campaign, spearheaded by ICE.</desc>
   </programme>
 </tv>
