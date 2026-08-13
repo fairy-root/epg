@@ -1,0 +1,101 @@
+name: OSN Playlist & EPG Update
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'    # Every 12 hours
+  workflow_dispatch:          # Allows manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ─────────────────────────────────────────────
+      # STEP 1: Checkout this PUBLIC repo
+      # ─────────────────────────────────────────────
+      - name: Checkout public repo
+        uses: actions/checkout@v4
+
+      # ─────────────────────────────────────────────
+      # STEP 2: Checkout the PRIVATE generator repo
+      #   (contains the Python code + cookies + device
+      #    files; fetched read-only via the PAT secret)
+      # ─────────────────────────────────────────────
+      - name: Checkout private generator repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ vars.PRIVATE_REPO }}
+          token: ${{ secrets.GH_PAT }}
+          path: generator
+
+      # ─────────────────────────────────────────────
+      # STEP 3: Set up Python
+      # ─────────────────────────────────────────────
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          pip install -r generator/requirements.txt
+
+      # ─────────────────────────────────────────────
+      # STEP 4: Run the generator (inside private repo)
+      # ─────────────────────────────────────────────
+      - name: Generate OSN playlist and EPG
+        run: python generator/osn_generator.py
+
+      # ─────────────────────────────────────────────
+      # STEP 5: Verify outputs exist
+      # ─────────────────────────────────────────────
+      - name: Verify generated files
+        run: |
+          if [ ! -f generator/osn.m3u ]; then
+            echo "::error::osn.m3u was not generated!"
+            exit 1
+          fi
+          if [ ! -f generator/epg.xml ]; then
+            echo "::error::epg.xml was not generated!"
+            exit 1
+          fi
+          ls -la generator/osn.m3u generator/epg.xml
+
+      # ─────────────────────────────────────────────
+      # STEP 6: Publish ONLY epg.xml to this public repo
+      #   (never commit the generator source, cookies
+      #    or keys back here - only the generated guide)
+      # ─────────────────────────────────────────────
+      - name: Publish EPG to public repo
+        run: |
+          cp generator/epg.xml epg.xml
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add epg.xml
+          git commit -m "Update EPG $(date -u +%Y-%m-%d_%H:%M:%S UTC)" || echo "No changes to commit"
+          git push
+
+      # ─────────────────────────────────────────────
+      # STEP 7: Embed M3U into the worker source
+      #   (the m3u is deployed to Cloudflare, not to
+      #    this public repo, so it stays unlisted)
+      # ─────────────────────────────────────────────
+      - name: Embed M3U into worker
+        run: |
+          M3U_B64=$(base64 -w 0 generator/osn.m3u)
+          printf 'export const M3U_B64 = "%s";\n' "$M3U_B64" > generator/cf-worker/src/m3u-content.js
+          echo "M3U size: $(wc -c < generator/osn.m3u) bytes"
+          echo "Base64 size: $(wc -c < generator/cf-worker/src/m3u-content.js) bytes"
+
+      # ─────────────────────────────────────────────
+      # STEP 8: Deploy / Update Cloudflare Worker
+      # ─────────────────────────────────────────────
+      - name: Deploy Worker with updated M3U
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: ./generator/cf-worker
