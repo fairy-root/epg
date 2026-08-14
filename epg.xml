@@ -320,10 +320,6 @@
     <display-name>Bloomberg Originals</display-name>
     <icon src="https://images.tv.osn.com/colossus/images/channel_logos/v4/Bloomberg-Originals_ATV.png" />
   </channel>
-  <programme start="20260814035500 +0100" stop="20260814041000 +0100" channel="9994">
-    <title>Antidote</title>
-    <desc>Discussing topics about public health and proper nutrition through interviewing specialists and giving medical advice to avoid diseases.</desc>
-  </programme>
   <programme start="20260814041000 +0100" stop="20260814044000 +0100" channel="9994">
     <title>Your Health</title>
     <desc>Dr. Kinda Al Mohammad tours key medical facilities in Qatar, highlighting the country's focus on advanced technology and skilled medical staff to enhance public health quality.</desc>
@@ -1249,12 +1245,6 @@
     <desc>Daffy, cheese-loving inventor Wallace and his faithful dog Gromit become heroes in stopping a crime spree. They learn that a giant, fuzzy creature is stealing the town’s produce and the not-completely-dynamic duo set out to capture the beast and save the day.</desc>
     <category>movie</category>
   </programme>
-  <programme start="20260814033500 +0100" stop="20260814041000 +0100" channel="304">
-    <title>Avenue 5</title>
-    <sub-title>What An Unseasonal Delight</sub-title>
-    <desc>With the ship facing a fiery threat, Billie hatches a plan that could just save some of the passengers… and the eels. Meanwhile, Iris makes a risky bid on Earth, Ryan finds himself in the middle of a three-way couples' quarrel, and Mia shares shocking news with Doug.</desc>
-    <category>episode</category>
-  </programme>
   <programme start="20260814041000 +0100" stop="20260814052000 +0100" channel="304">
     <title>Band Of Brothers</title>
     <sub-title>Points</sub-title>
@@ -2125,6 +2115,11 @@ most awesome thing ever to happen to the town, or the worst?</desc>
     <desc>This time, Shrek, Donkey and Princess Fiona are sent on a whirlwind of new adventures with more fairytale favourites to lampoon along the way.</desc>
     <category>movie</category>
   </programme>
+  <programme start="20260815130500 +0100" stop="20260815144500 +0100" channel="4503">
+    <title>The Lake House</title>
+    <desc>Two people develop an unusual relationship that bends the boundaries of time and place.</desc>
+    <category>movie</category>
+  </programme>
   <programme start="20260814035500 +0100" stop="20260814060000 +0100" channel="5669">
     <title>Ocean's Twelve</title>
     <desc>After splitting the $160 million take, each of the infamous Ocean's crew have tried to go straight, lay low and live a legit life...but that's proven to be a challenge.</desc>
@@ -2785,10 +2780,10 @@ most awesome thing ever to happen to the town, or the worst?</desc>
     <desc>After a hostage situation turns out to have international implications, the CIA and FBI find themselves racing against each other to apprehend the criminal. Carter expresses concern about Jane's trustworthiness, causing friction with Mayfair and testing Reade's loyalty.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260814030000 +0100" stop="20260814040500 +0100" channel="4502">
-    <title>The Insight Track with Luca Allam</title>
-    <sub-title>Nayla Tueini</sub-title>
-    <desc>A journalist and media executive, Nayla Tueini is the editor-in-chief of An-Nahar, continuing her family's legacy in Lebanese journalism.</desc>
+  <programme start="20260815130500 +0100" stop="20260815135000 +0100" channel="307">
+    <title>Blindspot</title>
+    <sub-title>Cede Your Soul</sub-title>
+    <desc>When an assassination leads to a dangerous app that allows criminals to track government vehicles, the team must work with the app's creator to take it down. While Zapata struggles with a moral issue, Jane and Weller attempt to keep their relationship professional.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260814040500 +0100" stop="20260814043000 +0100" channel="4502">
@@ -3575,6 +3570,12 @@ most awesome thing ever to happen to the town, or the worst?</desc>
     <title>2 Broke Girls</title>
     <sub-title>And The First Degree</sub-title>
     <desc>Caroline helps Max with her high-school diploma, and supports her through a potential reconnection with her estranged mother.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260815130500 +0100" stop="20260815133000 +0100" channel="4508">
+    <title>Friends</title>
+    <sub-title>The One With The Jellyfish</sub-title>
+    <desc>Ross chooses between Rachel and his girlfriend Bonnie. Phoebe struggles with the revelation of her mother's friend being her real mother. Monica gets stung by a jellyfish, forcing Chandler and Joey to relieve her pain.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260814040000 +0100" stop="20260814050000 +0100" channel="4501">
@@ -4789,11 +4790,6 @@ most awesome thing ever to happen to the town, or the worst?</desc>
     <desc>Fatih discusses with Rolla about their situation and asks her to forgive him and return home.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260814034500 +0100" stop="20260814040500 +0100" channel="306">
-    <title>Qesat Shortty</title>
-    <desc>An unsuccessful policeman goes undercover impersonating a taxi driver to hunt down a serial killer who has been killing taxi drivers and stealing their money.</desc>
-    <category>movie</category>
-  </programme>
   <programme start="20260814040500 +0100" stop="20260814052500 +0100" channel="306">
     <title>11:11</title>
     <desc>The story of three people who are put on path with a stray bullet coming out of a troubled Lawyer's gun when he decided to commit suicide in his car.</desc>
@@ -4893,12 +4889,6 @@ most awesome thing ever to happen to the town, or the worst?</desc>
     <title>Beit El Ruby</title>
     <desc>A family forced out of isolation into overnight, chaotic social media stardom.</desc>
     <category>movie</category>
-  </programme>
-  <programme start="20260814035600 +0100" stop="20260814040700 +0100" channel="4506">
-    <title>Little Princess</title>
-    <sub-title>I Want a Trumpet</sub-title>
-    <desc>When a new music box arrives at the castle and captures everyone’s attention, Little Princess decides she should play an instrument too.</desc>
-    <category>episode</category>
   </programme>
   <programme start="20260814040700 +0100" stop="20260814043200 +0100" channel="4506">
     <title>Mix Master</title>
@@ -6007,6 +5997,17 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <desc>Bing and Sula are splashing in puddles in the park, when Bing jumps into a really big, muddy puddle!</desc>
     <category>episode</category>
   </programme>
+  <programme start="20260815130400 +0100" stop="20260815131200 +0100" channel="4506">
+    <title>Bing</title>
+    <sub-title>Bubbles</sub-title>
+    <desc>Flop shows Bing and Pando how to blow bubbles. But what happens when Pando pops Bing’s first?</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260815131200 +0100" stop="20260815133400 +0100" channel="4506">
+    <title>LEGO Marvel Superheroes - Avengers Reassembled</title>
+    <desc>The Avengers are forced to &quot;party&quot; with Ultron when he seeks to disassemble the team by taking control of Iron Man's armor and enact a nefarious scheme to take over the world.</desc>
+    <category>movie</category>
+  </programme>
   <programme start="20260814040000 +0100" stop="20260814042500 +0100" channel="5663">
     <title>SpongeBob SquarePants</title>
     <sub-title>Captain Pipsqueak/Plane to Sea</sub-title>
@@ -6543,6 +6544,12 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <title>Henry Danger</title>
     <sub-title>Brawl In The Hall</sub-title>
     <desc>When Charlotte is challenged to a fight at school, Captain Man and Kid Danger step in to try and help Charlotte defend herself.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260815131000 +0100" stop="20260815133500 +0100" channel="5663">
+    <title>That Girl Lay Lay</title>
+    <sub-title>Lay Lay &amp; Sadie's Big Hair Adventure</sub-title>
+    <desc>That Girl Lay Lay follows Lay Lay, the perfect hype girl and best friend that anyone could ever want from their personal affirmation app.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260814040000 +0100" stop="20260814042000 +0100" channel="5671">
@@ -7131,6 +7138,12 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <desc>When Dev refuses to participate in Kindness Day, Hazel summons an intergalactic species of diplomats to reason with him. // Hazel learns more about her nemesis, Dev, when forced to work with him on a class project.</desc>
     <category>episode</category>
   </programme>
+  <programme start="20260815131000 +0100" stop="20260815133500 +0100" channel="5671">
+    <title>The Fairly OddParents: A New Wish</title>
+    <sub-title>Cookie's Court / Work Her Magic</sub-title>
+    <desc>After losing Hazel to Cosmo and Wanda during the Wish Trials, a scheming Cookie returns for revenge . Frustrated by her mom's split attention between work and home, Hazel wishes to be her assistant to spend more time with her.</desc>
+    <category>episode</category>
+  </programme>
   <programme start="20260814035000 +0100" stop="20260814041500 +0100" channel="5670">
     <title>Barbapapa - One Big Happy Family!</title>
     <sub-title>The Barbapapa Family / The House of Barbapapa</sub-title>
@@ -7705,12 +7718,6 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <title>Bedtime Stories with Ryan</title>
     <sub-title>Goodnight &amp;, Hello, You</sub-title>
     <desc>Ryan Reynolds reads stories to help the world fall asleep. Tonight Ryan shares some tales that dare.</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260814035500 +0100" stop="20260814040500 +0100" channel="4507">
-    <title>The Amazing World Of Gumball</title>
-    <sub-title>The Misunderstandings</sub-title>
-    <desc>Gumball is late to meet Penny at the mall.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260814040500 +0100" stop="20260814041500 +0100" channel="4507">
@@ -8659,6 +8666,12 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <desc>Beast Boy starts using more than 10% of his brain.</desc>
     <category>episode</category>
   </programme>
+  <programme start="20260815130500 +0100" stop="20260815131500 +0100" channel="4507">
+    <title>The Amazing World Of Gumball</title>
+    <sub-title>The Roots</sub-title>
+    <desc>The Wattersons try and reconnect Darwin to his fish roots.</desc>
+    <category>episode</category>
+  </programme>
   <programme start="20260814040200 +0100" stop="20260814043000 +0100" channel="310">
     <title>CoComelon</title>
     <sub-title>JJ's Artsy August Class</sub-title>
@@ -9067,6 +9080,12 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <desc>Create and decorate a cookie with Baby John, then become the Cookie Police to solve its disappearance!</desc>
     <category>episode</category>
   </programme>
+  <programme start="20260815130900 +0100" stop="20260815132700 +0100" channel="310">
+    <title>Blippi Wonders</title>
+    <sub-title>How Awesome Things Work!</sub-title>
+    <desc>Blippi learns how awesome things work! He explores a firetruck, an F1 race car, a monster truck &amp; a crane!</desc>
+    <category>episode</category>
+  </programme>
   <programme start="20260814040000 +0100" stop="20260814044600 +0100" channel="5665">
     <title>Deadliest Catch</title>
     <sub-title>Super Typhoon Part 1</sub-title>
@@ -9311,6 +9330,12 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <title>Salvage Hunters</title>
     <sub-title>Portugal Special</sub-title>
     <desc>Drew and Tee take a trip to Portugal, a hidden gem of the antiques trade. They unearth some architectural marvels recovered from an 18th century church.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260815131000 +0100" stop="20260815140000 +0100" channel="5665">
+    <title>Gold Rush</title>
+    <sub-title>Independence Day</sub-title>
+    <desc>Tony's dredge teardown hits a wall, Parker makes a bid for independence.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260814040000 +0100" stop="20260814050000 +0100" channel="5668">
@@ -12973,10 +12998,6 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <title>La'alahom Yafkahon</title>
     <desc>Islamic scholars discuss various religious topics that concern Muslims by shedding light on the life of Prophet Muhammad (PBUH) and verses from the Holy Quran.</desc>
   </programme>
-  <programme start="20260814040000 +0100" stop="20260814040500 +0100" channel="1101">
-    <title>Mojaz Al Akhbar</title>
-    <desc>The hosts shed light on the latest and most important economic news, developments and events taking place all around the world.</desc>
-  </programme>
   <programme start="20260814040500 +0100" stop="20260814042000 +0100" channel="1101">
     <title>Sanabel</title>
     <desc>The host receives phone calls and asks Quran-related questions.</desc>
@@ -13264,10 +13285,6 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
   <programme start="20260815120000 +0100" stop="20260815132100 +0100" channel="1101">
     <title>Dewaneyyat Al Telfezyoon</title>
     <desc>The hosts discuss and analyse several topics that interest local citizens in Kuwait.</desc>
-  </programme>
-  <programme start="20260814033000 +0100" stop="20260814040500 +0100" channel="9043">
-    <title>To Be Announced</title>
-    <desc>The programming for this time slot has yet to be determined and is being confirmed.</desc>
   </programme>
   <programme start="20260814040500 +0100" stop="20260814042000 +0100" channel="9043">
     <title>To Be Announced</title>
@@ -13999,10 +14016,13 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <title>Nashrat Al Akhbar</title>
     <desc>The anchor presents the latest news updates and developments pertaining to society, politics, economy and finance from across the world.</desc>
   </programme>
-  <programme start="20260814030100 +0100" stop="20260814040500 +0100" channel="9995">
-    <title>Al Qadaa</title>
-    <desc>The lives of a fearless lawyer, Ceylin, and a renowned prosecutor, Ilgaz, are forever changed when they are forced to team up to solve a murder case.</desc>
-    <category>episode</category>
+  <programme start="20260815130800 +0100" stop="20260815131100 +0100" channel="9013">
+    <title>Athan Al Asr</title>
+    <desc>Muslim religious leaders and devotees recite the Asr prayer, one of Islam's five daily prayers, live from the holy city of Mecca.</desc>
+  </programme>
+  <programme start="20260815131100 +0100" stop="20260815133000 +0100" channel="9013">
+    <title>Nashrat Al Akhbar</title>
+    <desc>The anchor presents the latest news updates and developments pertaining to society, politics, economy and finance from across the world.</desc>
   </programme>
   <programme start="20260814040500 +0100" stop="20260814045000 +0100" channel="9995">
     <title>Iswed Fateh</title>
@@ -14449,6 +14469,11 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <desc>Upon hearing about Amar's wedding proposal, Nafe' sets a plan that gets the new admirer and his family in trouble.</desc>
     <category>episode</category>
   </programme>
+  <programme start="20260815131000 +0100" stop="20260815135500 +0100" channel="9297">
+    <title>Saraya Abdeen</title>
+    <desc>An intriguing story focusing on Khedive Ismail Pasha, one of the most prominent rulers in Egypt, and the conflicts that arose between his wives and his mother during his reign at the Abdeen palace.</desc>
+    <category>episode</category>
+  </programme>
   <programme start="20260814033500 +0100" stop="20260814042000 +0100" channel="9245">
     <title>El Maddah: Ostouret El Nehaya</title>
     <desc>Saber joins forces with Hasan in the fight against Sameeh and his followers. Meanwhile, Mawt's pursuit of the emerald puts him through a difficult test.</desc>
@@ -14672,6 +14697,11 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
   <programme start="20260815123000 +0100" stop="20260815131000 +0100" channel="9245">
     <title>Dar Ghareeb</title>
     <desc>After getting rid of Nada, Nasser turns his attention to exploiting Nisrine. Zakariah files a police complaint against Ghareeb to get his money back.</desc>
+    <category>episode</category>
+  </programme>
+  <programme start="20260815131000 +0100" stop="20260815135000 +0100" channel="9245">
+    <title>Dar Ghareeb</title>
+    <desc>Salwa struggles as a maid for her husband and in-laws who don't allow her to visit her parents. Ghareeb gets arrested for not paying Zakariah in full.</desc>
     <category>episode</category>
   </programme>
   <programme start="20260814040200 +0100" stop="20260814070000 +0100" channel="411">
@@ -15389,11 +15419,6 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
   <programme start="20260815130000 +0100" stop="20260815133000 +0100" channel="2015">
     <title>News</title>
     <desc>News summary</desc>
-  </programme>
-  <programme start="20260814040000 +0100" stop="20260814040400 +0100" channel="9970">
-    <title>Al Arabiya News</title>
-    <desc>Be at the forefront of top stories, breaking news, current affairs and all there is to know in the Arab region and around the world.</desc>
-    <category>movie</category>
   </programme>
   <programme start="20260814040400 +0100" stop="20260814050000 +0100" channel="9970">
     <title>Fil Marma</title>
@@ -16597,6 +16622,10 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <title>Monawaat</title>
     <desc>Magazine programme.</desc>
   </programme>
+  <programme start="20260815130500 +0100" stop="20260815143500 +0100" channel="9961">
+    <title>Handball</title>
+    <desc>Telecast of handball matches between professional international clubs and nations.</desc>
+  </programme>
   <programme start="20260814035500 +0100" stop="20260814042500 +0100" channel="9069">
     <title>Program: Al Mudir Alfani 2026-2027</title>
     <sub-title>Episode 14</sub-title>
@@ -16697,11 +16726,6 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <title>ADNOC Pro League 2026-2027</title>
     <sub-title>Episode 2</sub-title>
     <desc>ADNOC Pro League 2026-2027</desc>
-    <category>episode</category>
-  </programme>
-  <programme start="20260814040000 +0100" stop="20260814041300 +0100" channel="9971">
-    <title>Fairy Teens</title>
-    <desc>Living in an ordinary human apartment, five little fairies train to tame their magical powers and cope with the normal world. But they soon uncover their greater purpose: to change the fate of the whole fairy world!</desc>
     <category>episode</category>
   </programme>
   <programme start="20260814041300 +0100" stop="20260814043000 +0100" channel="9971">
@@ -18251,9 +18275,11 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <desc>Museums are fun with Blippi! He learns about planes, sand, vegetables, boats, &amp; birds.</desc>
     <category>episode</category>
   </programme>
-  <programme start="20260814035200 +0100" stop="20260814041300 +0100" channel="6610">
-    <title>Saros Story and Ending</title>
-    <desc>A spoiler-filled explanation of Saros unpacks Arjuns journey.</desc>
+  <programme start="20260815130500 +0100" stop="20260815134900 +0100" channel="206">
+    <title>Meekah</title>
+    <sub-title>Meekah's Playground &amp; Emotions Adventure!</sub-title>
+    <desc>Meekah's on an adventure! She explores a playground &amp; learns about her emotions with some fun puppets!</desc>
+    <category>episode</category>
   </programme>
   <programme start="20260814041300 +0100" stop="20260814043600 +0100" channel="6610">
     <title>Battlefield 6 Gameplay</title>
@@ -19244,6 +19270,10 @@ Tamika get her to the Soothing Springs for the cure, before her sneezes get them
     <desc>Gametoon is a dynamic gaming and esports entertainment channel that delivers a mix of esports tournament coverage, gaming news, and lifestyle content. Its programming includes premier events from titles such as Dota 2, League of Legends and Hearthstone.</desc>
   </programme>
   <programme start="20260815120500 +0100" stop="20260815130500 +0100" channel="6606">
+    <title>Stream Nation - Ori And The Will Of The Wisps</title>
+    <desc>Gametoon is a dynamic gaming and esports entertainment channel that delivers a mix of esports tournament coverage, gaming news, and lifestyle content. Its programming includes premier events from titles such as Dota 2, League of Legends and Hearthstone.</desc>
+  </programme>
+  <programme start="20260815130500 +0100" stop="20260815140500 +0100" channel="6606">
     <title>Stream Nation - Ori And The Will Of The Wisps</title>
     <desc>Gametoon is a dynamic gaming and esports entertainment channel that delivers a mix of esports tournament coverage, gaming news, and lifestyle content. Its programming includes premier events from titles such as Dota 2, League of Legends and Hearthstone.</desc>
   </programme>
